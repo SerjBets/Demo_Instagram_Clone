@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1651431919, 163095951]
+build_end_time: [1651431931, 751686096]
+inputs:
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Core Tabs/CameraViewController.swift": [1651430865, 380251407]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Core Tabs/ExploreViewController.swift": [1651430825, 340475082]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Core Tabs/HomeViewController.swift": [1651430767, 819699764]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Core Tabs/NotificationsViewController.swift": [1651430901, 829293727]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Core Tabs/ProfileViewController.swift": [1651430925, 364225387]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/EditProfileViewController.swift": [1651431156, 981571197]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/ListViewController.swift": [1651431249, 954103946]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/Onboarding/LoginViewController.swift": [1651431075, 329775333]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/Onboarding/RegistrationViewController.swift": [1651431086, 412600994]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/PostEditorViewController.swift": [1651431343, 875337123]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/PostViewController.swift": [1651431134, 266176700]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/PublishPostViewController.swift": [1651431385, 776597499]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/SearchResultViewController.swift": [1651431295, 322821140]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/SearchViewController.swift": [1651431267, 380210876]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Contollers/Other/SettingsViewController.swift": [1651431180, 718500614]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Resources/AppDelegate.swift": [1651430457, 856301069]
+  "/Users/serjbets/Code/iOs/Instagram/Instagram/Resources/SceneDelegate.swift": [1651430457, 875466108]

@@ -1,0 +1,67 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8d432971bf9d0cc7d1331bf9839d39899c685cac94b4a83c71e563385e8449db"
+    }
+  ],
+  "containerPath" : "/Users/serjbets/Code/iOs/Instagram/Instagram.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Index/Build/Products",
+      "derivedDataPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

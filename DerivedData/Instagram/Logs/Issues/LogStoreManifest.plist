@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>58A3A53A-BEC2-40BB-AB83-4781CC672A39</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>58A3A53A-BEC2-40BB-AB83-4781CC672A39.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Instagram-dcvtbtkbjxrlzlfzckuuntecyjer</string>
+			<key>timeStartedRecording</key>
+			<real>673124718.73078704</real>
+			<key>timeStoppedRecording</key>
+			<real>673124735.31564701</real>
+			<key>title</key>
+			<string>Build target Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>58A3A53A-BEC2-40BB-AB83-4781CC672A39</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

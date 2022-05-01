@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B35294D6-4E85-43BE-982E-02CEBABC1DFE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B35294D6-4E85-43BE-982E-02CEBABC1DFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>673124716.16484404</real>
+			<key>timeStoppedRecording</key>
+			<real>673124735.35752201</real>
+			<key>title</key>
+			<string>Build Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>B35294D6-4E85-43BE-982E-02CEBABC1DFE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

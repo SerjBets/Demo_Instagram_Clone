@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8d432971bf9d0cc7d1331bf9839d39899c685cac94b4a83c71e563385e8449db"
+    }
+  ],
+  "containerPath" : "/Users/serjbets/Code/iOs/Instagram/Instagram.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Build/Products",
+      "derivedDataPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/serjbets/Code/iOs/Instagram/DerivedData/Instagram/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "18637BE7-1F56-4695-9BE2-3A1B6B29F301",
+          "TARGET_DEVICE_MODEL" : "iPhone14,2",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
