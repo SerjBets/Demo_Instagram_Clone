@@ -1,29 +1,21 @@
-//
 //  CameraViewController.swift
 //  Instagram
-//
-//  Created by Сергей Бец on 01.05.2022.
-//
+//  Created by Serhii Bets on 13.04.2022.
+//  Copyright by Serhii Bets. All rights reserved.
 
 import UIKit
+import AVFoundation
 
 class CameraViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+    private func didTapTakePicture() {
+        
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        navigationController?.setNavigationBarHidden(true, animated: false)
+        
     }
-    */
 
 }

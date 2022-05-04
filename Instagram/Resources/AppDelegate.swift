@@ -1,19 +1,16 @@
-//
 //  AppDelegate.swift
 //  Instagram
-//
-//  Created by Сергей Бец on 01.05.2022.
-//
+//  Created by Serhii Bets on 13.04.2022.
+//  Copyright by Serhii Bets. All rights reserved.
 
 import UIKit
+import Firebase
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        FirebaseApp.configure()
         return true
     }
 
