@@ -10,10 +10,9 @@ protocol FormTableViewCellDelegate: AnyObject {
 }
 
 class FormTableViewCell: UITableViewCell {
-    
     static let identifier = "FormTableViewCell"
     
-// MARK: === Privat ===
+//MARK: === Create UI elements ===
     private var model: EditProfileFormModel?
     
     private let formlabel: UILabel = {
@@ -28,19 +27,6 @@ class FormTableViewCell: UITableViewCell {
         field.returnKeyType = .done
         return field
     }()
-
-    override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
-        super.init(style: style, reuseIdentifier: reuseIdentifier)
-        clipsToBounds = true
-        contentView.addSubview(formlabel)
-        contentView.addSubview(field)
-        field.delegate = self
-        selectionStyle = .none
-    }
-    
-    required init?(coder: NSCoder) {
-        fatalError("init(coder:) has not been implemented")
-    }
     
     override func layoutSubviews() {
         super.layoutSubviews()
@@ -52,6 +38,20 @@ class FormTableViewCell: UITableViewCell {
                                  y: 0,
                                  width: contentView.width - 10 - formlabel.width,
                                  height: contentView.height)
+    }
+
+//MARK: === init functions ===
+    override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
+        super.init(style: style, reuseIdentifier: reuseIdentifier)
+        clipsToBounds = true
+        contentView.addSubview(formlabel)
+        contentView.addSubview(field)
+        field.delegate = self
+        selectionStyle = .none
+    }
+    
+    required init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
     }
 
 // MARK: === Public ===

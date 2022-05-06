@@ -9,9 +9,9 @@ import UIKit
 import SDWebImage
 
 class PhotoCollectionViewCell: UICollectionViewCell {
-    
     static let identifier = "PhotoCollectionViewCell"
     
+//MARK: === Create UI elements ===
     private let photoImageView: UIImageView = {
         let imageView = UIImageView()
         imageView.clipsToBounds = true
@@ -29,6 +29,7 @@ class PhotoCollectionViewCell: UICollectionViewCell {
         photoImageView.image = nil
     }
     
+    //MARK: === init functions ===
     override init(frame: CGRect) {
         super.init(frame: frame)
         contentView.backgroundColor = .secondarySystemBackground
@@ -42,6 +43,8 @@ class PhotoCollectionViewCell: UICollectionViewCell {
         fatalError("init(coder:) has not been implemented")
     }
     
+    
+    // MARK: === Public ===
     public func configure(with model: UserPost) {
         let url = model.tumbnailImageURL
         photoImageView.sd_setImage(with: url, completed: nil)

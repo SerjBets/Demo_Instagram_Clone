@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>02EF816D-FDC2-48CD-AE1E-84F1D1C211D7</key>
+		<key>0427AEC1-F2BE-46A3-B6BA-2967E4D39B3A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>02EF816D-FDC2-48CD-AE1E-84F1D1C211D7.xcactivitylog</string>
+			<string>0427AEC1-F2BE-46A3-B6BA-2967E4D39B3A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673266978.72890401</real>
+			<real>673556432.068452</real>
 			<key>timeStoppedRecording</key>
-			<real>673266982.95164502</real>
+			<real>673556436.26703501</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>02EF816D-FDC2-48CD-AE1E-84F1D1C211D7</string>
+			<string>0427AEC1-F2BE-46A3-B6BA-2967E4D39B3A</string>
 		</dict>
-		<key>04CC2105-56BD-4500-834B-01F0BF088401</key>
+		<key>2A51FECB-F1D5-44D9-B678-C21D7F98107A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>04CC2105-56BD-4500-834B-01F0BF088401.xcactivitylog</string>
+			<string>2A51FECB-F1D5-44D9-B678-C21D7F98107A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673261115.85395002</real>
+			<real>673542872.15250504</real>
 			<key>timeStoppedRecording</key>
-			<real>673261116.79219699</real>
+			<real>673542874.57327902</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>04CC2105-56BD-4500-834B-01F0BF088401</string>
+			<string>2A51FECB-F1D5-44D9-B678-C21D7F98107A</string>
 		</dict>
-		<key>06B7AF01-6D85-41C6-87AE-C6466B24B2F7</key>
+		<key>2F605A3A-4653-4BF0-AB7E-82A17B595B28</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +83,143 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>06B7AF01-6D85-41C6-87AE-C6466B24B2F7.xcactivitylog</string>
+			<string>2F605A3A-4653-4BF0-AB7E-82A17B595B28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>673545122.89279199</real>
+			<key>timeStoppedRecording</key>
+			<real>673545126.60589194</real>
+			<key>title</key>
+			<string>Build Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>2F605A3A-4653-4BF0-AB7E-82A17B595B28</string>
+		</dict>
+		<key>30F06E79-4ECF-4BAB-A04B-17E08058E013</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30F06E79-4ECF-4BAB-A04B-17E08058E013.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>673545236.46540403</real>
+			<key>timeStoppedRecording</key>
+			<real>673545237.12730801</real>
+			<key>title</key>
+			<string>Build Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>30F06E79-4ECF-4BAB-A04B-17E08058E013</string>
+		</dict>
+		<key>3A0ACB34-37A1-4E63-ABE0-278C7FF0E1E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A0ACB34-37A1-4E63-ABE0-278C7FF0E1E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>673538642.25891495</real>
+			<key>timeStoppedRecording</key>
+			<real>673538652.98417401</real>
+			<key>title</key>
+			<string>Build Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>3A0ACB34-37A1-4E63-ABE0-278C7FF0E1E4</string>
+		</dict>
+		<key>3CBFA9EA-4903-4F53-9B06-FC062529A4D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3CBFA9EA-4903-4F53-9B06-FC062529A4D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram</string>
+			<key>timeStartedRecording</key>
+			<real>673541763.72379994</real>
+			<key>timeStoppedRecording</key>
+			<real>673541767.54022098</real>
+			<key>title</key>
+			<string>Build Instagram</string>
+			<key>uniqueIdentifier</key>
+			<string>3CBFA9EA-4903-4F53-9B06-FC062529A4D4</string>
+		</dict>
+		<key>3E598A66-3924-4F80-95B5-36CA27255D03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3E598A66-3924-4F80-95B5-36CA27255D03.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +236,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673286656.37862504</real>
+			<real>673538291.21527803</real>
 			<key>timeStoppedRecording</key>
-			<real>673286659.35989499</real>
+			<real>673538351.26543903</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>06B7AF01-6D85-41C6-87AE-C6466B24B2F7</string>
+			<string>3E598A66-3924-4F80-95B5-36CA27255D03</string>
 		</dict>
-		<key>0D03BA05-C67A-4AF2-802B-2B91D7347B45</key>
+		<key>4CA13AFC-AC85-4F8A-A230-1F39736F5CA4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0D03BA05-C67A-4AF2-802B-2B91D7347B45.xcactivitylog</string>
+			<string>4CA13AFC-AC85-4F8A-A230-1F39736F5CA4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +270,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673259833.761464</real>
+			<real>673542339.85320306</real>
 			<key>timeStoppedRecording</key>
-			<real>673259834.762936</real>
+			<real>673542342.97163999</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>0D03BA05-C67A-4AF2-802B-2B91D7347B45</string>
+			<string>4CA13AFC-AC85-4F8A-A230-1F39736F5CA4</string>
 		</dict>
-		<key>0F42E38F-7C2B-4FB6-AE3C-33DEC8BCC039</key>
+		<key>4FB7C359-4C4A-4790-BF82-905A22D5D410</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0F42E38F-7C2B-4FB6-AE3C-33DEC8BCC039.xcactivitylog</string>
+			<string>4FB7C359-4C4A-4790-BF82-905A22D5D410.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +304,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673267658.58941102</real>
+			<real>673540258.30321598</real>
 			<key>timeStoppedRecording</key>
-			<real>673267662.88410294</real>
+			<real>673540263.42361403</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>0F42E38F-7C2B-4FB6-AE3C-33DEC8BCC039</string>
+			<string>4FB7C359-4C4A-4790-BF82-905A22D5D410</string>
 		</dict>
-		<key>0F82C04B-C311-401A-95A5-024E1C8E0306</key>
+		<key>538E8564-ACDB-4FC2-A852-3FC0577FDC1F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,449 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0F82C04B-C311-401A-95A5-024E1C8E0306.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673287078.06257796</real>
-			<key>timeStoppedRecording</key>
-			<real>673287082.32428706</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>0F82C04B-C311-401A-95A5-024E1C8E0306</string>
-		</dict>
-		<key>1370A74C-57FA-4F43-AB21-4A156639240F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1370A74C-57FA-4F43-AB21-4A156639240F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289953.77423096</real>
-			<key>timeStoppedRecording</key>
-			<real>673289957.63454103</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>1370A74C-57FA-4F43-AB21-4A156639240F</string>
-		</dict>
-		<key>1492F85F-6202-4D9D-A036-7B1708362CB6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1492F85F-6202-4D9D-A036-7B1708362CB6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673216013.62655795</real>
-			<key>timeStoppedRecording</key>
-			<real>673216016.79074001</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>1492F85F-6202-4D9D-A036-7B1708362CB6</string>
-		</dict>
-		<key>1D0767DB-C95D-474D-8224-065948EF8650</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1D0767DB-C95D-474D-8224-065948EF8650.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673288721.15024996</real>
-			<key>timeStoppedRecording</key>
-			<real>673288726.47418499</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>1D0767DB-C95D-474D-8224-065948EF8650</string>
-		</dict>
-		<key>1E2261E9-A8E9-4B2E-B6E8-BE312DF62822</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1E2261E9-A8E9-4B2E-B6E8-BE312DF62822.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673347897.24427795</real>
-			<key>timeStoppedRecording</key>
-			<real>673347900.41782904</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>1E2261E9-A8E9-4B2E-B6E8-BE312DF62822</string>
-		</dict>
-		<key>22104367-6DD4-4B00-8BB5-5563AA75DDF9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>22104367-6DD4-4B00-8BB5-5563AA75DDF9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673257917.70224094</real>
-			<key>timeStoppedRecording</key>
-			<real>673257937.41445899</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>22104367-6DD4-4B00-8BB5-5563AA75DDF9</string>
-		</dict>
-		<key>244A06F9-53DC-465C-903D-7AB4D8CAE4AC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>244A06F9-53DC-465C-903D-7AB4D8CAE4AC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673219862.30920601</real>
-			<key>timeStoppedRecording</key>
-			<real>673219865.18969798</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>244A06F9-53DC-465C-903D-7AB4D8CAE4AC</string>
-		</dict>
-		<key>2456DB9B-8CDD-4DD3-8A26-69C3236EAAE1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2456DB9B-8CDD-4DD3-8A26-69C3236EAAE1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673217723.39549804</real>
-			<key>timeStoppedRecording</key>
-			<real>673217726.57623303</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>2456DB9B-8CDD-4DD3-8A26-69C3236EAAE1</string>
-		</dict>
-		<key>2570818A-54CD-417F-8CCC-0B6FD889E48A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2570818A-54CD-417F-8CCC-0B6FD889E48A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289531.89445102</real>
-			<key>timeStoppedRecording</key>
-			<real>673289532.33513498</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>2570818A-54CD-417F-8CCC-0B6FD889E48A</string>
-		</dict>
-		<key>277B6547-3658-40FD-9D20-CD4BE297A85D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>277B6547-3658-40FD-9D20-CD4BE297A85D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673287450.67128396</real>
-			<key>timeStoppedRecording</key>
-			<real>673287453.86786103</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>277B6547-3658-40FD-9D20-CD4BE297A85D</string>
-		</dict>
-		<key>288BF275-11AE-40D1-AE14-E18B9D87FFC2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>288BF275-11AE-40D1-AE14-E18B9D87FFC2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289527.11031795</real>
-			<key>timeStoppedRecording</key>
-			<real>673289530.76083803</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>288BF275-11AE-40D1-AE14-E18B9D87FFC2</string>
-		</dict>
-		<key>2AAEC568-48B2-4653-9CB0-AA665828C244</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2AAEC568-48B2-4653-9CB0-AA665828C244.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673352669.94793296</real>
-			<key>timeStoppedRecording</key>
-			<real>673352676.58508003</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>2AAEC568-48B2-4653-9CB0-AA665828C244</string>
-		</dict>
-		<key>2B796E09-C95F-4419-AA42-4732E562DA5D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2B796E09-C95F-4419-AA42-4732E562DA5D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673258811.36344898</real>
-			<key>timeStoppedRecording</key>
-			<real>673258814.94547999</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>2B796E09-C95F-4419-AA42-4732E562DA5D</string>
-		</dict>
-		<key>2ECD0F35-E192-4912-ADF9-0EB5CCD4BE4E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2ECD0F35-E192-4912-ADF9-0EB5CCD4BE4E.xcactivitylog</string>
+			<string>538E8564-ACDB-4FC2-A852-3FC0577FDC1F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +338,15 @@
 			<key>signature</key>
 			<string>Clean Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673257914.30235696</real>
+			<real>673544800.033445</real>
 			<key>timeStoppedRecording</key>
-			<real>673257914.86150706</real>
+			<real>673544800.75824594</real>
 			<key>title</key>
 			<string>Clean Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>2ECD0F35-E192-4912-ADF9-0EB5CCD4BE4E</string>
+			<string>538E8564-ACDB-4FC2-A852-3FC0577FDC1F</string>
 		</dict>
-		<key>2ED3E73F-8C10-4C46-931A-3F5628167C2D</key>
+		<key>5E2822AD-F21E-450E-BA4E-B2A2A9562432</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -661,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2ED3E73F-8C10-4C46-931A-3F5628167C2D.xcactivitylog</string>
+			<string>5E2822AD-F21E-450E-BA4E-B2A2A9562432.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +372,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673216125.90320694</real>
+			<real>673555851.53199899</real>
 			<key>timeStoppedRecording</key>
-			<real>673216127.91988599</real>
+			<real>673555854.79172397</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>2ED3E73F-8C10-4C46-931A-3F5628167C2D</string>
+			<string>5E2822AD-F21E-450E-BA4E-B2A2A9562432</string>
 		</dict>
-		<key>2EDB4C8A-321C-4510-85C2-5A53881CE481</key>
+		<key>67B2BE8F-0ABC-4440-99E9-50FEAC771B32</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -695,75 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2EDB4C8A-321C-4510-85C2-5A53881CE481.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673347850.85548103</real>
-			<key>timeStoppedRecording</key>
-			<real>673347862.44783604</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>2EDB4C8A-321C-4510-85C2-5A53881CE481</string>
-		</dict>
-		<key>3275F2B2-7BC7-4918-9FE0-5C27B2C8CC34</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3275F2B2-7BC7-4918-9FE0-5C27B2C8CC34.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353487.15573001</real>
-			<key>timeStoppedRecording</key>
-			<real>673353489.91194797</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>3275F2B2-7BC7-4918-9FE0-5C27B2C8CC34</string>
-		</dict>
-		<key>34A83438-78A8-41E3-AAA2-844C1A6FCA25</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>34A83438-78A8-41E3-AAA2-844C1A6FCA25.xcactivitylog</string>
+			<string>67B2BE8F-0ABC-4440-99E9-50FEAC771B32.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -780,15 +406,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673259788.949705</real>
+			<real>673542509.17863095</real>
 			<key>timeStoppedRecording</key>
-			<real>673259790.51268303</real>
+			<real>673542510.85495305</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>34A83438-78A8-41E3-AAA2-844C1A6FCA25</string>
+			<string>67B2BE8F-0ABC-4440-99E9-50FEAC771B32</string>
 		</dict>
-		<key>3764EB10-C7AD-4D74-9DF3-7722C1EB3B1A</key>
+		<key>8535EEB3-B19E-4DAC-8EB5-0EE5077AFBC2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -797,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3764EB10-C7AD-4D74-9DF3-7722C1EB3B1A.xcactivitylog</string>
+			<string>8535EEB3-B19E-4DAC-8EB5-0EE5077AFBC2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -814,15 +440,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673304808.68801403</real>
+			<real>673541234.83096397</real>
 			<key>timeStoppedRecording</key>
-			<real>673304812.60586905</real>
+			<real>673541239.08799696</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>3764EB10-C7AD-4D74-9DF3-7722C1EB3B1A</string>
+			<string>8535EEB3-B19E-4DAC-8EB5-0EE5077AFBC2</string>
 		</dict>
-		<key>38CE2EC0-54E9-4178-98E8-9A3AB7F5094A</key>
+		<key>88078C2B-279D-42A9-B7BD-57D3D4751568</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -831,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>38CE2EC0-54E9-4178-98E8-9A3AB7F5094A.xcactivitylog</string>
+			<string>88078C2B-279D-42A9-B7BD-57D3D4751568.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -848,15 +474,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673220140.65335298</real>
+			<real>673555659.54801095</real>
 			<key>timeStoppedRecording</key>
-			<real>673220146.66839504</real>
+			<real>673555673.51103497</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>38CE2EC0-54E9-4178-98E8-9A3AB7F5094A</string>
+			<string>88078C2B-279D-42A9-B7BD-57D3D4751568</string>
 		</dict>
-		<key>41138143-4C6D-44F9-9736-CDC50E01FE54</key>
+		<key>8C87D3E7-1096-49FB-82A4-4FD58F53213D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -865,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>41138143-4C6D-44F9-9736-CDC50E01FE54.xcactivitylog</string>
+			<string>8C87D3E7-1096-49FB-82A4-4FD58F53213D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -882,15 +508,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673353462.31149006</real>
+			<real>673544562.62632406</real>
 			<key>timeStoppedRecording</key>
-			<real>673353466.019328</real>
+			<real>673544574.47890496</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>41138143-4C6D-44F9-9736-CDC50E01FE54</string>
+			<string>8C87D3E7-1096-49FB-82A4-4FD58F53213D</string>
 		</dict>
-		<key>421D9D6B-D513-454E-871C-57319F9D86B9</key>
+		<key>8CB27885-9709-4446-B5B4-4FEF4E7CDE5A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -899,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>421D9D6B-D513-454E-871C-57319F9D86B9.xcactivitylog</string>
+			<string>8CB27885-9709-4446-B5B4-4FEF4E7CDE5A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -916,15 +542,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673213654.88330901</real>
+			<real>673431760.94377005</real>
 			<key>timeStoppedRecording</key>
-			<real>673213706.63484597</real>
+			<real>673431764.20372605</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>421D9D6B-D513-454E-871C-57319F9D86B9</string>
+			<string>8CB27885-9709-4446-B5B4-4FEF4E7CDE5A</string>
 		</dict>
-		<key>4318489A-2BA0-4003-91B6-8FBC653856DC</key>
+		<key>9445AF90-7E15-49E3-B27E-0B5DB26C5389</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -933,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4318489A-2BA0-4003-91B6-8FBC653856DC.xcactivitylog</string>
+			<string>9445AF90-7E15-49E3-B27E-0B5DB26C5389.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -950,15 +576,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673221257.647609</real>
+			<real>673544801.82790196</real>
 			<key>timeStoppedRecording</key>
-			<real>673221261.23539603</real>
+			<real>673544869.940063</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>4318489A-2BA0-4003-91B6-8FBC653856DC</string>
+			<string>9445AF90-7E15-49E3-B27E-0B5DB26C5389</string>
 		</dict>
-		<key>43E164C5-0E7F-475B-96E0-882A890A4A15</key>
+		<key>9AF67CA2-ED1D-4D9E-9B85-EE63353053A5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -967,109 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>43E164C5-0E7F-475B-96E0-882A890A4A15.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673217869.87754595</real>
-			<key>timeStoppedRecording</key>
-			<real>673217872.608289</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>43E164C5-0E7F-475B-96E0-882A890A4A15</string>
-		</dict>
-		<key>477CA610-B365-47B5-B9BE-25ED545D0874</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>477CA610-B365-47B5-B9BE-25ED545D0874.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673259581.73721302</real>
-			<key>timeStoppedRecording</key>
-			<real>673259585.53781295</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>477CA610-B365-47B5-B9BE-25ED545D0874</string>
-		</dict>
-		<key>47AD4521-24AE-4859-8077-B6FD8F4FE0CA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>47AD4521-24AE-4859-8077-B6FD8F4FE0CA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673348028.22476304</real>
-			<key>timeStoppedRecording</key>
-			<real>673348037.32104194</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>47AD4521-24AE-4859-8077-B6FD8F4FE0CA</string>
-		</dict>
-		<key>47BDF3F8-A70C-4E52-BCBF-E2E6FCA4C087</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>47BDF3F8-A70C-4E52-BCBF-E2E6FCA4C087.xcactivitylog</string>
+			<string>9AF67CA2-ED1D-4D9E-9B85-EE63353053A5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1086,15 +610,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673289012.17720199</real>
+			<real>673543029.79205704</real>
 			<key>timeStoppedRecording</key>
-			<real>673289014.60217798</real>
+			<real>673543031.55404794</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>47BDF3F8-A70C-4E52-BCBF-E2E6FCA4C087</string>
+			<string>9AF67CA2-ED1D-4D9E-9B85-EE63353053A5</string>
 		</dict>
-		<key>49F5EB83-BDC7-4C62-9314-7978C312E922</key>
+		<key>9D637586-5F3D-476E-BA4A-A60B20A19DD4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1103,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>49F5EB83-BDC7-4C62-9314-7978C312E922.xcactivitylog</string>
+			<string>9D637586-5F3D-476E-BA4A-A60B20A19DD4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1120,15 +644,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673353418.95835197</real>
+			<real>673540198.64814401</real>
 			<key>timeStoppedRecording</key>
-			<real>673353421.58606696</real>
+			<real>673540218.58952606</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>49F5EB83-BDC7-4C62-9314-7978C312E922</string>
+			<string>9D637586-5F3D-476E-BA4A-A60B20A19DD4</string>
 		</dict>
-		<key>4EC003CB-64FA-4802-A553-E6D0153F916E</key>
+		<key>B2FFDDBD-2AB8-4F2F-948D-761827789627</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1137,109 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4EC003CB-64FA-4802-A553-E6D0153F916E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673218929.65318596</real>
-			<key>timeStoppedRecording</key>
-			<real>673218931.86949599</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>4EC003CB-64FA-4802-A553-E6D0153F916E</string>
-		</dict>
-		<key>533FB5F4-BDE7-40E6-A07D-2AA908E8C613</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>533FB5F4-BDE7-40E6-A07D-2AA908E8C613.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673261088.07599604</real>
-			<key>timeStoppedRecording</key>
-			<real>673261089.53535104</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>533FB5F4-BDE7-40E6-A07D-2AA908E8C613</string>
-		</dict>
-		<key>56DFC2FF-7EC0-4456-A3F5-70739A31984C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>56DFC2FF-7EC0-4456-A3F5-70739A31984C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353328.30062902</real>
-			<key>timeStoppedRecording</key>
-			<real>673353344.28578699</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>56DFC2FF-7EC0-4456-A3F5-70739A31984C</string>
-		</dict>
-		<key>58BB0887-14CC-40A0-9E46-7EA554152B6B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>58BB0887-14CC-40A0-9E46-7EA554152B6B.xcactivitylog</string>
+			<string>B2FFDDBD-2AB8-4F2F-948D-761827789627.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1256,15 +678,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673290052.34586203</real>
+			<real>673540174.924914</real>
 			<key>timeStoppedRecording</key>
-			<real>673290056.65178394</real>
+			<real>673540198.62309003</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>58BB0887-14CC-40A0-9E46-7EA554152B6B</string>
+			<string>B2FFDDBD-2AB8-4F2F-948D-761827789627</string>
 		</dict>
-		<key>631E7C4A-D3C4-4282-93FC-E629937702D7</key>
+		<key>BF4DE000-ACB9-43F2-8F18-B94F1843B902</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1273,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>631E7C4A-D3C4-4282-93FC-E629937702D7.xcactivitylog</string>
+			<string>BF4DE000-ACB9-43F2-8F18-B94F1843B902.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1290,15 +712,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673258000.49081898</real>
+			<real>673542720.44623804</real>
 			<key>timeStoppedRecording</key>
-			<real>673258009.13287497</real>
+			<real>673542724.42631996</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>631E7C4A-D3C4-4282-93FC-E629937702D7</string>
+			<string>BF4DE000-ACB9-43F2-8F18-B94F1843B902</string>
 		</dict>
-		<key>63C23C42-485F-415E-A7E9-948D42D097F2</key>
+		<key>C4D7EF40-17D0-4DCD-A8AA-7BF16D034228</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1307,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>63C23C42-485F-415E-A7E9-948D42D097F2.xcactivitylog</string>
+			<string>C4D7EF40-17D0-4DCD-A8AA-7BF16D034228.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1324,15 +746,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673262102.90635896</real>
+			<real>673541394.08371496</real>
 			<key>timeStoppedRecording</key>
-			<real>673262107.09111798</real>
+			<real>673541397.38498902</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>63C23C42-485F-415E-A7E9-948D42D097F2</string>
+			<string>C4D7EF40-17D0-4DCD-A8AA-7BF16D034228</string>
 		</dict>
-		<key>648C66BE-20D1-41DB-9FC3-ABD891CC81B3</key>
+		<key>E0CFDD3D-9FCA-40B1-8336-9C36729D8B48</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1341,41 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>648C66BE-20D1-41DB-9FC3-ABD891CC81B3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673268027.10205996</real>
-			<key>timeStoppedRecording</key>
-			<real>673268035.87438297</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>648C66BE-20D1-41DB-9FC3-ABD891CC81B3</string>
-		</dict>
-		<key>656CB54C-799C-43A2-AAAC-D37D1A4CCF02</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>656CB54C-799C-43A2-AAAC-D37D1A4CCF02.xcactivitylog</string>
+			<string>E0CFDD3D-9FCA-40B1-8336-9C36729D8B48.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1392,15 +780,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673215241.56176102</real>
+			<real>673540218.63031399</real>
 			<key>timeStoppedRecording</key>
-			<real>673215243.34526706</real>
+			<real>673540233.09883404</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>656CB54C-799C-43A2-AAAC-D37D1A4CCF02</string>
+			<string>E0CFDD3D-9FCA-40B1-8336-9C36729D8B48</string>
 		</dict>
-		<key>6580AB64-7928-44AE-B072-E5F77C8A5449</key>
+		<key>E968F91B-2CF9-4BCD-AB8F-0072A6F47426</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1409,347 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6580AB64-7928-44AE-B072-E5F77C8A5449.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353048.25689495</real>
-			<key>timeStoppedRecording</key>
-			<real>673353050.73754096</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>6580AB64-7928-44AE-B072-E5F77C8A5449</string>
-		</dict>
-		<key>66F269E9-FF97-4E71-8F88-DA9D3DB9E5E9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>66F269E9-FF97-4E71-8F88-DA9D3DB9E5E9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673261329.80464399</real>
-			<key>timeStoppedRecording</key>
-			<real>673261334.47805202</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>66F269E9-FF97-4E71-8F88-DA9D3DB9E5E9</string>
-		</dict>
-		<key>6CD2FD02-0F4D-41BC-A26C-AD82DBB426D0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6CD2FD02-0F4D-41BC-A26C-AD82DBB426D0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673354294.47941899</real>
-			<key>timeStoppedRecording</key>
-			<real>673354294.91888297</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>6CD2FD02-0F4D-41BC-A26C-AD82DBB426D0</string>
-		</dict>
-		<key>6EBFB8D7-2703-4AB4-868F-6E25874290B1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6EBFB8D7-2703-4AB4-868F-6E25874290B1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673287674.44528699</real>
-			<key>timeStoppedRecording</key>
-			<real>673287679.49343002</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>6EBFB8D7-2703-4AB4-868F-6E25874290B1</string>
-		</dict>
-		<key>71127D79-C3EE-4A2B-BDCC-DC94C151F35E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>71127D79-C3EE-4A2B-BDCC-DC94C151F35E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673220537.07102001</real>
-			<key>timeStoppedRecording</key>
-			<real>673220541.03917301</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>71127D79-C3EE-4A2B-BDCC-DC94C151F35E</string>
-		</dict>
-		<key>72266F80-1386-4777-8D5F-59DE9F14546E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>72266F80-1386-4777-8D5F-59DE9F14546E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673290014.01024401</real>
-			<key>timeStoppedRecording</key>
-			<real>673290016.67831397</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>72266F80-1386-4777-8D5F-59DE9F14546E</string>
-		</dict>
-		<key>7250A4DE-83BD-4FE0-81E5-48BF7E21F11B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7250A4DE-83BD-4FE0-81E5-48BF7E21F11B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353400.79275596</real>
-			<key>timeStoppedRecording</key>
-			<real>673353404.40030205</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>7250A4DE-83BD-4FE0-81E5-48BF7E21F11B</string>
-		</dict>
-		<key>7328F519-FA05-46E1-9B0E-277B8F7C8FB1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7328F519-FA05-46E1-9B0E-277B8F7C8FB1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673347608.65064001</real>
-			<key>timeStoppedRecording</key>
-			<real>673347616.303864</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>7328F519-FA05-46E1-9B0E-277B8F7C8FB1</string>
-		</dict>
-		<key>73C52401-3381-4BFD-873A-56FAB53F64A5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>73C52401-3381-4BFD-873A-56FAB53F64A5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289969.70411098</real>
-			<key>timeStoppedRecording</key>
-			<real>673289973.28475201</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>73C52401-3381-4BFD-873A-56FAB53F64A5</string>
-		</dict>
-		<key>7B13D611-1DE3-4898-9F8F-99D6262BEE55</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7B13D611-1DE3-4898-9F8F-99D6262BEE55.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673261759.23406899</real>
-			<key>timeStoppedRecording</key>
-			<real>673261761.99077106</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>7B13D611-1DE3-4898-9F8F-99D6262BEE55</string>
-		</dict>
-		<key>7CD41F3B-9ED3-47A3-A29B-E5DE56EADC6D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7CD41F3B-9ED3-47A3-A29B-E5DE56EADC6D.xcactivitylog</string>
+			<string>E968F91B-2CF9-4BCD-AB8F-0072A6F47426.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1766,15 +814,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673221175.52636194</real>
+			<real>673543295.77196705</real>
 			<key>timeStoppedRecording</key>
-			<real>673221181.90066302</real>
+			<real>673543297.84585595</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>7CD41F3B-9ED3-47A3-A29B-E5DE56EADC6D</string>
+			<string>E968F91B-2CF9-4BCD-AB8F-0072A6F47426</string>
 		</dict>
-		<key>7D0DFE72-4C79-4ABF-8AAA-FD7CFDB35771</key>
+		<key>EEF71E19-8BB5-4A4C-BF72-F9BAAB208551</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1783,7 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7D0DFE72-4C79-4ABF-8AAA-FD7CFDB35771.xcactivitylog</string>
+			<string>EEF71E19-8BB5-4A4C-BF72-F9BAAB208551.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1800,15 +848,15 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673257893.01762903</real>
+			<real>673542627.09454799</real>
 			<key>timeStoppedRecording</key>
-			<real>673257894.89604104</real>
+			<real>673542628.79901099</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>7D0DFE72-4C79-4ABF-8AAA-FD7CFDB35771</string>
+			<string>EEF71E19-8BB5-4A4C-BF72-F9BAAB208551</string>
 		</dict>
-		<key>7D573BC1-2E07-4C68-AAE1-1A25C2E9726C</key>
+		<key>F2F0685C-8076-4DA0-AF56-765EE16B4E5C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1817,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7D573BC1-2E07-4C68-AAE1-1A25C2E9726C.xcactivitylog</string>
+			<string>F2F0685C-8076-4DA0-AF56-765EE16B4E5C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1834,2665 +882,13 @@
 			<key>signature</key>
 			<string>Build Instagram</string>
 			<key>timeStartedRecording</key>
-			<real>673353222.21033001</real>
+			<real>673544883.27576995</real>
 			<key>timeStoppedRecording</key>
-			<real>673353226.58458102</real>
+			<real>673544887.24348199</real>
 			<key>title</key>
 			<string>Build Instagram</string>
 			<key>uniqueIdentifier</key>
-			<string>7D573BC1-2E07-4C68-AAE1-1A25C2E9726C</string>
-		</dict>
-		<key>7E6B3110-23B0-4EF2-AF86-71FF8990BB21</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7E6B3110-23B0-4EF2-AF86-71FF8990BB21.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673217121.68759704</real>
-			<key>timeStoppedRecording</key>
-			<real>673217126.67818701</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>7E6B3110-23B0-4EF2-AF86-71FF8990BB21</string>
-		</dict>
-		<key>8144DA1E-9EE8-46D0-AD86-1A80C23677DC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8144DA1E-9EE8-46D0-AD86-1A80C23677DC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673287395.32905102</real>
-			<key>timeStoppedRecording</key>
-			<real>673287398.90127206</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>8144DA1E-9EE8-46D0-AD86-1A80C23677DC</string>
-		</dict>
-		<key>82D73205-1194-4D41-9EA1-DC047099B315</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>82D73205-1194-4D41-9EA1-DC047099B315.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289418.47100794</real>
-			<key>timeStoppedRecording</key>
-			<real>673289421.61449397</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>82D73205-1194-4D41-9EA1-DC047099B315</string>
-		</dict>
-		<key>86510FCF-E96E-4B23-863E-A3F3BC4F178E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>86510FCF-E96E-4B23-863E-A3F3BC4F178E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673354274.10390306</real>
-			<key>timeStoppedRecording</key>
-			<real>673354280.411466</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>86510FCF-E96E-4B23-863E-A3F3BC4F178E</string>
-		</dict>
-		<key>895C060D-027D-4ECA-B0AB-8779C1869994</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>895C060D-027D-4ECA-B0AB-8779C1869994.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353344.317855</real>
-			<key>timeStoppedRecording</key>
-			<real>673353387.25082004</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>895C060D-027D-4ECA-B0AB-8779C1869994</string>
-		</dict>
-		<key>8D4A3E4A-3DB9-4C4F-9E14-6088F9D7AADA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8D4A3E4A-3DB9-4C4F-9E14-6088F9D7AADA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673260512.03226697</real>
-			<key>timeStoppedRecording</key>
-			<real>673260513.73662901</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>8D4A3E4A-3DB9-4C4F-9E14-6088F9D7AADA</string>
-		</dict>
-		<key>8DE6B6D6-9873-426D-B69A-7029FC112B04</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8DE6B6D6-9873-426D-B69A-7029FC112B04.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673307439.44013906</real>
-			<key>timeStoppedRecording</key>
-			<real>673307446.98047996</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>8DE6B6D6-9873-426D-B69A-7029FC112B04</string>
-		</dict>
-		<key>8E543698-B478-473B-87A6-0E1A09DA8DA0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8E543698-B478-473B-87A6-0E1A09DA8DA0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673261721.49200296</real>
-			<key>timeStoppedRecording</key>
-			<real>673261724.52386105</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>8E543698-B478-473B-87A6-0E1A09DA8DA0</string>
-		</dict>
-		<key>8E7B6E90-98EF-4396-BF38-F147841319CB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8E7B6E90-98EF-4396-BF38-F147841319CB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Clean Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353263.32176805</real>
-			<key>timeStoppedRecording</key>
-			<real>673353264.78867102</real>
-			<key>title</key>
-			<string>Clean Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>8E7B6E90-98EF-4396-BF38-F147841319CB</string>
-		</dict>
-		<key>90FFAAB0-2190-467E-99C1-12F2E3898480</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>90FFAAB0-2190-467E-99C1-12F2E3898480.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673261030.40013897</real>
-			<key>timeStoppedRecording</key>
-			<real>673261032.99753106</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>90FFAAB0-2190-467E-99C1-12F2E3898480</string>
-		</dict>
-		<key>94DF3421-81AC-4ACB-A87B-E39A5343C011</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>94DF3421-81AC-4ACB-A87B-E39A5343C011.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673260029.28609097</real>
-			<key>timeStoppedRecording</key>
-			<real>673260030.68355298</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>94DF3421-81AC-4ACB-A87B-E39A5343C011</string>
-		</dict>
-		<key>9942C152-1F8E-4CCE-89A1-82BE236134D5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9942C152-1F8E-4CCE-89A1-82BE236134D5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673346355.79163301</real>
-			<key>timeStoppedRecording</key>
-			<real>673346358.78053403</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>9942C152-1F8E-4CCE-89A1-82BE236134D5</string>
-		</dict>
-		<key>99EDCBE1-E458-4593-BBA4-90AEA325FD85</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>99EDCBE1-E458-4593-BBA4-90AEA325FD85.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289462.507761</real>
-			<key>timeStoppedRecording</key>
-			<real>673289463.95770705</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>99EDCBE1-E458-4593-BBA4-90AEA325FD85</string>
-		</dict>
-		<key>9A221D09-4423-486B-BD17-D4147B6D9E07</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9A221D09-4423-486B-BD17-D4147B6D9E07.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673221346.38589501</real>
-			<key>timeStoppedRecording</key>
-			<real>673221349.44555902</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>9A221D09-4423-486B-BD17-D4147B6D9E07</string>
-		</dict>
-		<key>9A79DFBB-579E-47E7-9BF2-43CBBCA6E341</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9A79DFBB-579E-47E7-9BF2-43CBBCA6E341.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673264150.67972505</real>
-			<key>timeStoppedRecording</key>
-			<real>673264156.32598698</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>9A79DFBB-579E-47E7-9BF2-43CBBCA6E341</string>
-		</dict>
-		<key>9D9B7335-A5DB-4C70-9E3E-4A752A7D9BFD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9D9B7335-A5DB-4C70-9E3E-4A752A7D9BFD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673258503.34503198</real>
-			<key>timeStoppedRecording</key>
-			<real>673258506.804245</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>9D9B7335-A5DB-4C70-9E3E-4A752A7D9BFD</string>
-		</dict>
-		<key>9E6E895B-74AD-4A68-A6DD-48756F5539F4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9E6E895B-74AD-4A68-A6DD-48756F5539F4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673216112.34174001</real>
-			<key>timeStoppedRecording</key>
-			<real>673216113.61279905</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>9E6E895B-74AD-4A68-A6DD-48756F5539F4</string>
-		</dict>
-		<key>9EA15002-FCA1-45CD-9B30-E79F974A6A28</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9EA15002-FCA1-45CD-9B30-E79F974A6A28.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673307426.59600496</real>
-			<key>timeStoppedRecording</key>
-			<real>673307439.39888096</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>9EA15002-FCA1-45CD-9B30-E79F974A6A28</string>
-		</dict>
-		<key>A0DE8A96-03AC-4691-B982-81B2FE68F02E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A0DE8A96-03AC-4691-B982-81B2FE68F02E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673351293.70178199</real>
-			<key>timeStoppedRecording</key>
-			<real>673351295.90191901</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A0DE8A96-03AC-4691-B982-81B2FE68F02E</string>
-		</dict>
-		<key>A0E13BD3-F095-4FAA-9191-3596E21AFAF9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A0E13BD3-F095-4FAA-9191-3596E21AFAF9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673287313.37157404</real>
-			<key>timeStoppedRecording</key>
-			<real>673287317.51752496</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A0E13BD3-F095-4FAA-9191-3596E21AFAF9</string>
-		</dict>
-		<key>A20F622C-EC6B-447F-B625-D386AE3BE215</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A20F622C-EC6B-447F-B625-D386AE3BE215.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673352290.180637</real>
-			<key>timeStoppedRecording</key>
-			<real>673352294.28729296</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A20F622C-EC6B-447F-B625-D386AE3BE215</string>
-		</dict>
-		<key>A30DE5B1-0C23-497A-9623-94AC79A1DD32</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A30DE5B1-0C23-497A-9623-94AC79A1DD32.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Clean Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673213644.96227598</real>
-			<key>timeStoppedRecording</key>
-			<real>673213645.49586904</real>
-			<key>title</key>
-			<string>Clean Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A30DE5B1-0C23-497A-9623-94AC79A1DD32</string>
-		</dict>
-		<key>A40E5C11-5593-4028-90D2-6331252FD004</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A40E5C11-5593-4028-90D2-6331252FD004.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673217150.62695396</real>
-			<key>timeStoppedRecording</key>
-			<real>673217150.88255799</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A40E5C11-5593-4028-90D2-6331252FD004</string>
-		</dict>
-		<key>A6816C46-1901-449E-9051-561DF87E938E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A6816C46-1901-449E-9051-561DF87E938E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673213590.09164095</real>
-			<key>timeStoppedRecording</key>
-			<real>673213595.21207595</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A6816C46-1901-449E-9051-561DF87E938E</string>
-		</dict>
-		<key>A869176A-EE11-4E11-ADB6-EA0F6DD1E9F7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A869176A-EE11-4E11-ADB6-EA0F6DD1E9F7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673307447.00769901</real>
-			<key>timeStoppedRecording</key>
-			<real>673307494.39401495</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A869176A-EE11-4E11-ADB6-EA0F6DD1E9F7</string>
-		</dict>
-		<key>A94617B5-7D54-486A-9D4E-51FADD3A590F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A94617B5-7D54-486A-9D4E-51FADD3A590F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673352166.94399202</real>
-			<key>timeStoppedRecording</key>
-			<real>673352167.67105198</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>A94617B5-7D54-486A-9D4E-51FADD3A590F</string>
-		</dict>
-		<key>AAC54963-7DEF-43BC-8891-6CFF2CD960B2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AAC54963-7DEF-43BC-8891-6CFF2CD960B2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353244.33825302</real>
-			<key>timeStoppedRecording</key>
-			<real>673353246.92833102</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>AAC54963-7DEF-43BC-8891-6CFF2CD960B2</string>
-		</dict>
-		<key>ACF26E4C-49CD-4657-B133-C9C8EB84D875</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ACF26E4C-49CD-4657-B133-C9C8EB84D875.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673221493.34824395</real>
-			<key>timeStoppedRecording</key>
-			<real>673221496.40058303</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>ACF26E4C-49CD-4657-B133-C9C8EB84D875</string>
-		</dict>
-		<key>AFEEA2B5-C9F5-4FCA-8C13-F2FE80AE1F14</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AFEEA2B5-C9F5-4FCA-8C13-F2FE80AE1F14.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673287984.81041002</real>
-			<key>timeStoppedRecording</key>
-			<real>673287985.14868295</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>AFEEA2B5-C9F5-4FCA-8C13-F2FE80AE1F14</string>
-		</dict>
-		<key>B0A97F08-302B-41A9-8BAD-0FFA6C759A8C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B0A97F08-302B-41A9-8BAD-0FFA6C759A8C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673213645.57278097</real>
-			<key>timeStoppedRecording</key>
-			<real>673213645.66604197</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>B0A97F08-302B-41A9-8BAD-0FFA6C759A8C</string>
-		</dict>
-		<key>B263DA6C-6508-42DB-BF47-FC57A0794EF7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B263DA6C-6508-42DB-BF47-FC57A0794EF7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289452.05695999</real>
-			<key>timeStoppedRecording</key>
-			<real>673289455.90631199</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>B263DA6C-6508-42DB-BF47-FC57A0794EF7</string>
-		</dict>
-		<key>B4491F49-F65F-4C3D-9235-B4DD1525E9AC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B4491F49-F65F-4C3D-9235-B4DD1525E9AC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673219430.04751205</real>
-			<key>timeStoppedRecording</key>
-			<real>673219433.46003699</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>B4491F49-F65F-4C3D-9235-B4DD1525E9AC</string>
-		</dict>
-		<key>B684DCAA-7918-4266-A593-080FFB9EC4EC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B684DCAA-7918-4266-A593-080FFB9EC4EC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673219480.65880597</real>
-			<key>timeStoppedRecording</key>
-			<real>673219483.29127204</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>B684DCAA-7918-4266-A593-080FFB9EC4EC</string>
-		</dict>
-		<key>B7CD9ECD-6DF7-4201-AC30-9A2847EA490F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B7CD9ECD-6DF7-4201-AC30-9A2847EA490F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673262352.26320004</real>
-			<key>timeStoppedRecording</key>
-			<real>673262356.74003994</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>B7CD9ECD-6DF7-4201-AC30-9A2847EA490F</string>
-		</dict>
-		<key>BA7CC564-398C-4C87-BE6F-FF81A3C42D61</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BA7CC564-398C-4C87-BE6F-FF81A3C42D61.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673267816.14341199</real>
-			<key>timeStoppedRecording</key>
-			<real>673267820.45717895</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>BA7CC564-398C-4C87-BE6F-FF81A3C42D61</string>
-		</dict>
-		<key>BBD508AF-317F-431F-B934-46BA5D23B803</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BBD508AF-317F-431F-B934-46BA5D23B803.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673213536.03616297</real>
-			<key>timeStoppedRecording</key>
-			<real>673213544.43999004</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>BBD508AF-317F-431F-B934-46BA5D23B803</string>
-		</dict>
-		<key>BD8B38F4-E155-4724-B449-E5E0784CF362</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BD8B38F4-E155-4724-B449-E5E0784CF362.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673217302.35225701</real>
-			<key>timeStoppedRecording</key>
-			<real>673217304.72376895</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>BD8B38F4-E155-4724-B449-E5E0784CF362</string>
-		</dict>
-		<key>BDD9DC41-05E5-4D24-AE87-DD914595C391</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BDD9DC41-05E5-4D24-AE87-DD914595C391.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673213960.55704403</real>
-			<key>timeStoppedRecording</key>
-			<real>673213963.11957002</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>BDD9DC41-05E5-4D24-AE87-DD914595C391</string>
-		</dict>
-		<key>BE71EA31-D094-4CE3-AF53-61BDF347EF06</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BE71EA31-D094-4CE3-AF53-61BDF347EF06.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673257845.50846696</real>
-			<key>timeStoppedRecording</key>
-			<real>673257857.92019606</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>BE71EA31-D094-4CE3-AF53-61BDF347EF06</string>
-		</dict>
-		<key>C0173465-91CE-46BA-8129-F3D10BBB8099</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C0173465-91CE-46BA-8129-F3D10BBB8099.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673352536.708444</real>
-			<key>timeStoppedRecording</key>
-			<real>673352541.41712904</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>C0173465-91CE-46BA-8129-F3D10BBB8099</string>
-		</dict>
-		<key>C11CDA67-B4A0-4537-A057-E28509A1AD2D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C11CDA67-B4A0-4537-A057-E28509A1AD2D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673346160.29581106</real>
-			<key>timeStoppedRecording</key>
-			<real>673346171.36631596</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>C11CDA67-B4A0-4537-A057-E28509A1AD2D</string>
-		</dict>
-		<key>C178A785-4253-406A-82B9-EB963773BBE1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C178A785-4253-406A-82B9-EB963773BBE1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673264183.22216594</real>
-			<key>timeStoppedRecording</key>
-			<real>673264183.53317904</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>C178A785-4253-406A-82B9-EB963773BBE1</string>
-		</dict>
-		<key>C411BE5C-9033-498F-818D-811E33BDE550</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C411BE5C-9033-498F-818D-811E33BDE550.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673213176.31193995</real>
-			<key>timeStoppedRecording</key>
-			<real>673213183.70625103</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>C411BE5C-9033-498F-818D-811E33BDE550</string>
-		</dict>
-		<key>C44D0BF5-CBAD-4775-8F5E-26998CE06F3F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C44D0BF5-CBAD-4775-8F5E-26998CE06F3F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673351938.38523698</real>
-			<key>timeStoppedRecording</key>
-			<real>673351942.51755297</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>C44D0BF5-CBAD-4775-8F5E-26998CE06F3F</string>
-		</dict>
-		<key>C4BD56B7-3E57-43D0-A6C6-69321BC17F45</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C4BD56B7-3E57-43D0-A6C6-69321BC17F45.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673221483.27615297</real>
-			<key>timeStoppedRecording</key>
-			<real>673221485.09965706</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>C4BD56B7-3E57-43D0-A6C6-69321BC17F45</string>
-		</dict>
-		<key>C84A123F-C434-45D3-9B45-819BDCDFD8A6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C84A123F-C434-45D3-9B45-819BDCDFD8A6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673262573.15192604</real>
-			<key>timeStoppedRecording</key>
-			<real>673262576.53830099</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>C84A123F-C434-45D3-9B45-819BDCDFD8A6</string>
-		</dict>
-		<key>CA3C4760-5BD5-4A41-8659-2159B6092D3E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CA3C4760-5BD5-4A41-8659-2159B6092D3E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353020.92980194</real>
-			<key>timeStoppedRecording</key>
-			<real>673353024.71447206</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>CA3C4760-5BD5-4A41-8659-2159B6092D3E</string>
-		</dict>
-		<key>CEDE6F91-169F-4DC6-8B78-DCF0DA636C3D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CEDE6F91-169F-4DC6-8B78-DCF0DA636C3D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673351421.34419799</real>
-			<key>timeStoppedRecording</key>
-			<real>673351423.11883497</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>CEDE6F91-169F-4DC6-8B78-DCF0DA636C3D</string>
-		</dict>
-		<key>D0A6CF4D-C9B0-4FEE-9CEE-806A5C605203</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D0A6CF4D-C9B0-4FEE-9CEE-806A5C605203.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673257937.44601905</real>
-			<key>timeStoppedRecording</key>
-			<real>673257972.49712002</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>D0A6CF4D-C9B0-4FEE-9CEE-806A5C605203</string>
-		</dict>
-		<key>D3449721-060C-4B16-BA34-505F70416577</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D3449721-060C-4B16-BA34-505F70416577.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353555.574453</real>
-			<key>timeStoppedRecording</key>
-			<real>673353558.26875198</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>D3449721-060C-4B16-BA34-505F70416577</string>
-		</dict>
-		<key>D37D853E-50C1-4077-A378-3726A2C318A5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D37D853E-50C1-4077-A378-3726A2C318A5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673261188.05475497</real>
-			<key>timeStoppedRecording</key>
-			<real>673261191.68868995</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>D37D853E-50C1-4077-A378-3726A2C318A5</string>
-		</dict>
-		<key>D5DC11E6-1E87-441B-B85A-53680A3B9465</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D5DC11E6-1E87-441B-B85A-53680A3B9465.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673214649.38048398</real>
-			<key>timeStoppedRecording</key>
-			<real>673214650.40188599</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>D5DC11E6-1E87-441B-B85A-53680A3B9465</string>
-		</dict>
-		<key>D9B97DEA-40A7-407B-9B5E-D8E5D1F0E5A7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D9B97DEA-40A7-407B-9B5E-D8E5D1F0E5A7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673259663.00975394</real>
-			<key>timeStoppedRecording</key>
-			<real>673259665.642869</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>D9B97DEA-40A7-407B-9B5E-D8E5D1F0E5A7</string>
-		</dict>
-		<key>DB43BD3D-6BC8-4111-BC6D-1A39BAFE3683</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DB43BD3D-6BC8-4111-BC6D-1A39BAFE3683.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673217960.15226805</real>
-			<key>timeStoppedRecording</key>
-			<real>673217962.51869094</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>DB43BD3D-6BC8-4111-BC6D-1A39BAFE3683</string>
-		</dict>
-		<key>DC6F1A88-B9FC-498C-A332-D86AFF66E0DA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DC6F1A88-B9FC-498C-A332-D86AFF66E0DA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673215570.04036605</real>
-			<key>timeStoppedRecording</key>
-			<real>673215577.22932899</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>DC6F1A88-B9FC-498C-A332-D86AFF66E0DA</string>
-		</dict>
-		<key>DE16D695-28BF-4D1D-80AA-675FA0C956EC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DE16D695-28BF-4D1D-80AA-675FA0C956EC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289044.92688894</real>
-			<key>timeStoppedRecording</key>
-			<real>673289046.03272295</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>DE16D695-28BF-4D1D-80AA-675FA0C956EC</string>
-		</dict>
-		<key>DEC65936-19CA-45FD-B3FA-7469A52F2238</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DEC65936-19CA-45FD-B3FA-7469A52F2238.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673352813.34292603</real>
-			<key>timeStoppedRecording</key>
-			<real>673352817.63602996</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>DEC65936-19CA-45FD-B3FA-7469A52F2238</string>
-		</dict>
-		<key>DF8EB0F9-8CB1-48F2-926D-3A6BD0C76E63</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DF8EB0F9-8CB1-48F2-926D-3A6BD0C76E63.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673213263.33915305</real>
-			<key>timeStoppedRecording</key>
-			<real>673213264.77011502</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>DF8EB0F9-8CB1-48F2-926D-3A6BD0C76E63</string>
-		</dict>
-		<key>E1E6897D-FC65-465E-A260-90B6C9974EF5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E1E6897D-FC65-465E-A260-90B6C9974EF5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353839.11685705</real>
-			<key>timeStoppedRecording</key>
-			<real>673353848.99213302</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>E1E6897D-FC65-465E-A260-90B6C9974EF5</string>
-		</dict>
-		<key>E2F0415E-E383-4CD4-AE60-C4507C1FBB7A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E2F0415E-E383-4CD4-AE60-C4507C1FBB7A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673289437.18930697</real>
-			<key>timeStoppedRecording</key>
-			<real>673289441.52754295</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>E2F0415E-E383-4CD4-AE60-C4507C1FBB7A</string>
-		</dict>
-		<key>E52FCBE7-69ED-4F35-8720-692E687D6BDD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E52FCBE7-69ED-4F35-8720-692E687D6BDD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Clean Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673304832.09345996</real>
-			<key>timeStoppedRecording</key>
-			<real>673304834.18746102</real>
-			<key>title</key>
-			<string>Clean Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>E52FCBE7-69ED-4F35-8720-692E687D6BDD</string>
-		</dict>
-		<key>E8E1DBE9-0FA7-4FD2-938C-3B3BE9EB2308</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E8E1DBE9-0FA7-4FD2-938C-3B3BE9EB2308.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673261676.99821496</real>
-			<key>timeStoppedRecording</key>
-			<real>673261678.64698899</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>E8E1DBE9-0FA7-4FD2-938C-3B3BE9EB2308</string>
-		</dict>
-		<key>E99D46C2-5D8B-4DC3-ACEF-DB8933CFD81C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E99D46C2-5D8B-4DC3-ACEF-DB8933CFD81C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673217238.03266001</real>
-			<key>timeStoppedRecording</key>
-			<real>673217240.36451304</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>E99D46C2-5D8B-4DC3-ACEF-DB8933CFD81C</string>
-		</dict>
-		<key>EBD8A61E-3691-4892-BEAB-4461412900C0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EBD8A61E-3691-4892-BEAB-4461412900C0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673260781.66293895</real>
-			<key>timeStoppedRecording</key>
-			<real>673260781.95859003</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>EBD8A61E-3691-4892-BEAB-4461412900C0</string>
-		</dict>
-		<key>EBDE1973-3E85-4A39-A5D8-6816292F2D32</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EBDE1973-3E85-4A39-A5D8-6816292F2D32.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673260529.37902606</real>
-			<key>timeStoppedRecording</key>
-			<real>673260533.02212095</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>EBDE1973-3E85-4A39-A5D8-6816292F2D32</string>
-		</dict>
-		<key>ED12CC6E-4901-4036-95E3-717F7C51E857</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ED12CC6E-4901-4036-95E3-717F7C51E857.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353059.29061198</real>
-			<key>timeStoppedRecording</key>
-			<real>673353059.59786904</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>ED12CC6E-4901-4036-95E3-717F7C51E857</string>
-		</dict>
-		<key>EECCCAE1-D933-4E16-91BD-8231CB764868</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EECCCAE1-D933-4E16-91BD-8231CB764868.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673351989.77313399</real>
-			<key>timeStoppedRecording</key>
-			<real>673351992.91106606</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>EECCCAE1-D933-4E16-91BD-8231CB764868</string>
-		</dict>
-		<key>F2003CC2-691D-40C0-8AD5-A1431E5EB88A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F2003CC2-691D-40C0-8AD5-A1431E5EB88A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673214661.77856898</real>
-			<key>timeStoppedRecording</key>
-			<real>673214662.06189203</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F2003CC2-691D-40C0-8AD5-A1431E5EB88A</string>
-		</dict>
-		<key>F2280FE7-4662-410F-9184-107ECC445289</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F2280FE7-4662-410F-9184-107ECC445289.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673216327.30861294</real>
-			<key>timeStoppedRecording</key>
-			<real>673216331.31282699</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F2280FE7-4662-410F-9184-107ECC445289</string>
-		</dict>
-		<key>F2794361-56C1-4A05-AA51-ED58AC80A192</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F2794361-56C1-4A05-AA51-ED58AC80A192.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673307530.71508503</real>
-			<key>timeStoppedRecording</key>
-			<real>673307535.26886296</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F2794361-56C1-4A05-AA51-ED58AC80A192</string>
-		</dict>
-		<key>F27EB091-C17C-4D30-BC4E-6C3A66705798</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F27EB091-C17C-4D30-BC4E-6C3A66705798.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673351303.88185096</real>
-			<key>timeStoppedRecording</key>
-			<real>673351307.02658796</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F27EB091-C17C-4D30-BC4E-6C3A66705798</string>
-		</dict>
-		<key>F299C088-EE80-4144-84B9-8761CCF58542</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F299C088-EE80-4144-84B9-8761CCF58542.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673214320.951666</real>
-			<key>timeStoppedRecording</key>
-			<real>673214325.79182696</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F299C088-EE80-4144-84B9-8761CCF58542</string>
-		</dict>
-		<key>F2AF6169-CD4B-4CA1-85B8-095D1823411C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F2AF6169-CD4B-4CA1-85B8-095D1823411C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673353571.85991502</real>
-			<key>timeStoppedRecording</key>
-			<real>673353573.97999895</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F2AF6169-CD4B-4CA1-85B8-095D1823411C</string>
-		</dict>
-		<key>F6BDECD6-23A1-444C-9A14-5276F4E8EFF1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F6BDECD6-23A1-444C-9A14-5276F4E8EFF1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673350437.21602297</real>
-			<key>timeStoppedRecording</key>
-			<real>673350463.03309906</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F6BDECD6-23A1-444C-9A14-5276F4E8EFF1</string>
-		</dict>
-		<key>F80A70CC-7631-4806-BE77-AE568083C420</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F80A70CC-7631-4806-BE77-AE568083C420.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673262208.067325</real>
-			<key>timeStoppedRecording</key>
-			<real>673262210.90952098</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F80A70CC-7631-4806-BE77-AE568083C420</string>
-		</dict>
-		<key>F85BA636-099D-4263-A650-70B87DF6F08A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F85BA636-099D-4263-A650-70B87DF6F08A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673260713.76438606</real>
-			<key>timeStoppedRecording</key>
-			<real>673260718.42222202</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>F85BA636-099D-4263-A650-70B87DF6F08A</string>
-		</dict>
-		<key>FE0262F5-BBA8-416E-9389-63E483B29A07</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FE0262F5-BBA8-416E-9389-63E483B29A07.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673287947.32223594</real>
-			<key>timeStoppedRecording</key>
-			<real>673287951.10046804</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>FE0262F5-BBA8-416E-9389-63E483B29A07</string>
-		</dict>
-		<key>FF24F12C-7368-4409-8CF3-1FE32B54E130</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FF24F12C-7368-4409-8CF3-1FE32B54E130.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Instagram project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Instagram</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Instagram</string>
-			<key>timeStartedRecording</key>
-			<real>673214821.13111496</real>
-			<key>timeStoppedRecording</key>
-			<real>673214829.93757796</real>
-			<key>title</key>
-			<string>Build Instagram</string>
-			<key>uniqueIdentifier</key>
-			<string>FF24F12C-7368-4409-8CF3-1FE32B54E130</string>
+			<string>F2F0685C-8076-4DA0-AF56-765EE16B4E5C</string>
 		</dict>
 	</dict>
 </dict>

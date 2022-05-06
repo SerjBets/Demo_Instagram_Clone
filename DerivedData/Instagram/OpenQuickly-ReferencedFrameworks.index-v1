@@ -43,9 +43,9 @@
 	<string>GoogleDataTransport</string>
 	<string>CommonCrypto</string>
 	<string>GoogleUtilities</string>
-	<string>PackageDescription</string>
-	<string>Expecta</string>
 	<string>FirebaseRemoteConfig</string>
+	<string>Expecta</string>
+	<string>PackageDescription</string>
 	<string>unicode</string>
 	<string>CFNetwork</string>
 	<string>SDWebImageMapKit</string>
@@ -59,8 +59,8 @@
 	<string>CoreGraphics</string>
 	<string>objc</string>
 	<string>FirebaseDynamicLinks</string>
-	<string>CoreVideo</string>
 	<string>UIKit</string>
+	<string>CoreVideo</string>
 	<string>CoreTelephony</string>
 	<string>Foundation</string>
 	<string>sys</string>

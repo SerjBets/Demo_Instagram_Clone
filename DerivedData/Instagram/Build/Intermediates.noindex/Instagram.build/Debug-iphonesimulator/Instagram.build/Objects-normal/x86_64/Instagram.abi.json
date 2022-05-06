@@ -47,6 +47,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -883,6 +890,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -915,6 +929,127 @@
       "printedName": "_Concurrency",
       "declKind": "Import",
       "moduleName": "Instagram"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ProfileInfoHeaderCollectionReusableViewDelegate",
+      "printedName": "ProfileInfoHeaderCollectionReusableViewDelegate",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapPostsButton",
+          "printedName": "profileHeaderDidTapPostsButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profileD17DidTapPostsButtonyyAA0bcdefG0CF",
+          "mangledName": "$s9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profileD17DidTapPostsButtonyyAA0bcdefG0CF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapFollowersButton",
+          "printedName": "profileHeaderDidTapFollowersButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profileD21DidTapFollowersButtonyyAA0bcdefG0CF",
+          "mangledName": "$s9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profileD21DidTapFollowersButtonyyAA0bcdefG0CF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapFollowingButton",
+          "printedName": "profileHeaderDidTapFollowingButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profileD21DidTapFollowingButtonyyAA0bcdefG0CF",
+          "mangledName": "$s9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profileD21DidTapFollowingButtonyyAA0bcdefG0CF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapEditProfileButton",
+          "printedName": "profileHeaderDidTapEditProfileButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profiled10DidTapEditB6ButtonyyAA0bcdefG0CF",
+          "mangledName": "$s9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP07profiled10DidTapEditB6ButtonyyAA0bcdefG0CF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.ProfileInfoHeaderCollectionReusableViewDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Protocol",
+      "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP",
+      "mangledName": "$s9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP",
+      "moduleName": "Instagram",
+      "genericSig": "<τ_0_0 : AnyObject>",
+      "sugared_genericSig": "<Self : AnyObject>"
     },
     {
       "kind": "TypeDecl",
@@ -971,6 +1106,334 @@
               "accessorKind": "get"
             }
           ]
+        },
+        {
+          "kind": "Var",
+          "name": "delegate",
+          "printedName": "delegate",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableViewDelegate?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvp",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "ReferenceOwnership",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.ProfileInfoHeaderCollectionReusableViewDelegate?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProfileInfoHeaderCollectionReusableViewDelegate",
+                      "printedName": "Instagram.ProfileInfoHeaderCollectionReusableViewDelegate",
+                      "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvg",
+              "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.ProfileInfoHeaderCollectionReusableViewDelegate?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProfileInfoHeaderCollectionReusableViewDelegate",
+                      "printedName": "Instagram.ProfileInfoHeaderCollectionReusableViewDelegate",
+                      "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvs",
+              "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvs",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvM",
+              "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC8delegateAA0bcdefG8Delegate_pSgvM",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "profilePhotoImageView",
+          "printedName": "profilePhotoImageView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIImageView",
+              "printedName": "UIKit.UIImageView",
+              "usr": "c:objc(cs)UIImageView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC017profilePhotoImageG033_FE7237035E181C55A67B7F7537B2823DLLSo07UIImageG0Cvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC017profilePhotoImageG033_FE7237035E181C55A67B7F7537B2823DLLSo07UIImageG0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "postsButton",
+          "printedName": "postsButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC11postsButton33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC11postsButton33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "followingButton",
+          "printedName": "followingButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC15followingButton33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC15followingButton33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "followersButton",
+          "printedName": "followersButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC15followersButton33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC15followersButton33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "editProfileButton",
+          "printedName": "editProfileButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC04editB6Button33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC04editB6Button33_FE7237035E181C55A67B7F7537B2823DLLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 5,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "nameLabel",
+          "printedName": "nameLabel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UILabel",
+              "printedName": "UIKit.UILabel",
+              "usr": "c:objc(cs)UILabel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC9nameLabel33_FE7237035E181C55A67B7F7537B2823DLLSo7UILabelCvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC9nameLabel33_FE7237035E181C55A67B7F7537B2823DLLSo7UILabelCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 6,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "bioLabel",
+          "printedName": "bioLabel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UILabel",
+              "printedName": "UIKit.UILabel",
+              "usr": "c:objc(cs)UILabel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram39ProfileInfoHeaderCollectionReusableViewC8bioLabel33_FE7237035E181C55A67B7F7537B2823DLLSo7UILabelCvp",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC8bioLabel33_FE7237035E181C55A67B7F7537B2823DLLSo7UILabelCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 7,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView(im)layoutSubviews",
+          "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC14layoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Final",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
         },
         {
           "kind": "Constructor",
@@ -1049,9 +1512,9 @@
       "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView",
       "mangledName": "$s9Instagram39ProfileInfoHeaderCollectionReusableViewC",
       "moduleName": "Instagram",
-      "isOpen": true,
       "declAttributes": [
         "Custom",
+        "Final",
         "ObjC"
       ],
       "superclassUsr": "c:objc(cs)UICollectionReusableView",
@@ -1160,6 +1623,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -1608,6 +2078,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -1881,6 +2358,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -2149,6 +2633,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -2612,6 +3103,330 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SDWebImage",
+      "printedName": "SDWebImage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SafariServices",
+      "printedName": "SafariServices",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NoNotificationsView",
+      "printedName": "NoNotificationsView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "noNotificationsLabel",
+          "printedName": "noNotificationsLabel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UILabel",
+              "printedName": "UIKit.UILabel",
+              "usr": "c:objc(cs)UILabel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19NoNotificationsViewC02noC5Label33_EA290E5D14749C15833C9BB2C1AC877ELLSo7UILabelCvp",
+          "mangledName": "$s9Instagram19NoNotificationsViewC02noC5Label33_EA290E5D14749C15833C9BB2C1AC877ELLSo7UILabelCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "imageView",
+          "printedName": "imageView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIImageView",
+              "printedName": "UIKit.UIImageView",
+              "usr": "c:objc(cs)UIImageView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram19NoNotificationsViewC05imageD033_EA290E5D14749C15833C9BB2C1AC877ELLSo07UIImageD0Cvp",
+          "mangledName": "$s9Instagram19NoNotificationsViewC05imageD033_EA290E5D14749C15833C9BB2C1AC877ELLSo07UIImageD0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(frame:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NoNotificationsView",
+              "printedName": "Instagram.NoNotificationsView",
+              "usr": "c:@M@Instagram@objc(cs)NoNotificationsView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CGRect",
+              "printedName": "CoreGraphics.CGRect",
+              "usr": "c:@S@CGRect"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)NoNotificationsView(im)initWithFrame:",
+          "mangledName": "$s9Instagram19NoNotificationsViewC5frameACSo6CGRectV_tcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithFrame:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.NoNotificationsView?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NoNotificationsView",
+                  "printedName": "Instagram.NoNotificationsView",
+                  "usr": "c:@M@Instagram@objc(cs)NoNotificationsView"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)NoNotificationsView(im)initWithCoder:",
+          "mangledName": "$s9Instagram19NoNotificationsViewC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)NoNotificationsView(im)layoutSubviews",
+          "mangledName": "$s9Instagram19NoNotificationsViewC14layoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@Instagram@objc(cs)NoNotificationsView",
+      "mangledName": "$s9Instagram19NoNotificationsViewC",
+      "moduleName": "Instagram",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UIView",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UIView",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "__DefaultCustomPlaygroundQuickLookable",
+          "printedName": "__DefaultCustomPlaygroundQuickLookable",
+          "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+          "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "AVFoundation",
+      "printedName": "AVFoundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Firebase",
+      "printedName": "Firebase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseAuth",
+      "printedName": "FirebaseAuth",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseDatabase",
+      "printedName": "FirebaseDatabase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseStorage",
+      "printedName": "FirebaseStorage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -3143,6 +3958,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -3387,6 +4209,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -3660,6 +4489,1089 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SDWebImage",
+      "printedName": "SDWebImage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SafariServices",
+      "printedName": "SafariServices",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "UserFollowTableViewCellDelegate",
+      "printedName": "UserFollowTableViewCellDelegate",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "didTapFollowUnFollowButton",
+          "printedName": "didTapFollowUnFollowButton(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UserRelationship",
+              "printedName": "Instagram.UserRelationship",
+              "usr": "s:9Instagram16UserRelationshipV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram31UserFollowTableViewCellDelegateP06didTapc2UnC6Button4withyAA0B12RelationshipV_tF",
+          "mangledName": "$s9Instagram31UserFollowTableViewCellDelegateP06didTapc2UnC6Button4withyAA0B12RelationshipV_tF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.UserFollowTableViewCellDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.UserFollowTableViewCellDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Protocol",
+      "usr": "s:9Instagram31UserFollowTableViewCellDelegateP",
+      "mangledName": "$s9Instagram31UserFollowTableViewCellDelegateP",
+      "moduleName": "Instagram",
+      "genericSig": "<τ_0_0 : AnyObject>",
+      "sugared_genericSig": "<Self : AnyObject>"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "FollowState",
+      "printedName": "FollowState",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "following",
+          "printedName": "following",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Instagram.FollowState.Type) -> Instagram.FollowState",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FollowState",
+                  "printedName": "Instagram.FollowState",
+                  "usr": "s:9Instagram11FollowStateO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "Instagram.FollowState.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "FollowState",
+                      "printedName": "Instagram.FollowState",
+                      "usr": "s:9Instagram11FollowStateO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:9Instagram11FollowStateO9followingyA2CmF",
+          "mangledName": "$s9Instagram11FollowStateO9followingyA2CmF",
+          "moduleName": "Instagram",
+          "fixedbinaryorder": 0
+        },
+        {
+          "kind": "Var",
+          "name": "not_following",
+          "printedName": "not_following",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Instagram.FollowState.Type) -> Instagram.FollowState",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FollowState",
+                  "printedName": "Instagram.FollowState",
+                  "usr": "s:9Instagram11FollowStateO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "Instagram.FollowState.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "FollowState",
+                      "printedName": "Instagram.FollowState",
+                      "usr": "s:9Instagram11FollowStateO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:9Instagram11FollowStateO13not_followingyA2CmF",
+          "mangledName": "$s9Instagram11FollowStateO13not_followingyA2CmF",
+          "moduleName": "Instagram",
+          "fixedbinaryorder": 1
+        },
+        {
+          "kind": "Function",
+          "name": "__derived_enum_equals",
+          "printedName": "__derived_enum_equals(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FollowState",
+              "printedName": "Instagram.FollowState",
+              "usr": "s:9Instagram11FollowStateO"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FollowState",
+              "printedName": "Instagram.FollowState",
+              "usr": "s:9Instagram11FollowStateO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram11FollowStateO21__derived_enum_equalsySbAC_ACtFZ",
+          "mangledName": "$s9Instagram11FollowStateO21__derived_enum_equalsySbAC_ACtFZ",
+          "moduleName": "Instagram",
+          "static": true,
+          "implicit": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "hash",
+          "printedName": "hash(into:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Hasher",
+              "printedName": "Swift.Hasher",
+              "paramValueOwnership": "InOut",
+              "usr": "s:s6HasherV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram11FollowStateO4hash4intoys6HasherVz_tF",
+          "mangledName": "$s9Instagram11FollowStateO4hash4intoys6HasherVz_tF",
+          "moduleName": "Instagram",
+          "implicit": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Var",
+          "name": "hashValue",
+          "printedName": "hashValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram11FollowStateO9hashValueSivp",
+          "mangledName": "$s9Instagram11FollowStateO9hashValueSivp",
+          "moduleName": "Instagram",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram11FollowStateO9hashValueSivg",
+              "mangledName": "$s9Instagram11FollowStateO9hashValueSivg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:9Instagram11FollowStateO",
+      "mangledName": "$s9Instagram11FollowStateO",
+      "moduleName": "Instagram",
+      "isEnumExhaustive": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "UserRelationship",
+      "printedName": "UserRelationship",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "username",
+          "printedName": "username",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram16UserRelationshipV8usernameSSvp",
+          "mangledName": "$s9Instagram16UserRelationshipV8usernameSSvp",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram16UserRelationshipV8usernameSSvg",
+              "mangledName": "$s9Instagram16UserRelationshipV8usernameSSvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "name",
+          "printedName": "name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram16UserRelationshipV4nameSSvp",
+          "mangledName": "$s9Instagram16UserRelationshipV4nameSSvp",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram16UserRelationshipV4nameSSvg",
+              "mangledName": "$s9Instagram16UserRelationshipV4nameSSvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "type",
+          "printedName": "type",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FollowState",
+              "printedName": "Instagram.FollowState",
+              "usr": "s:9Instagram11FollowStateO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram16UserRelationshipV4typeAA11FollowStateOvp",
+          "mangledName": "$s9Instagram16UserRelationshipV4typeAA11FollowStateOvp",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "FollowState",
+                  "printedName": "Instagram.FollowState",
+                  "usr": "s:9Instagram11FollowStateO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram16UserRelationshipV4typeAA11FollowStateOvg",
+              "mangledName": "$s9Instagram16UserRelationshipV4typeAA11FollowStateOvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(username:name:type:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UserRelationship",
+              "printedName": "Instagram.UserRelationship",
+              "usr": "s:9Instagram16UserRelationshipV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "FollowState",
+              "printedName": "Instagram.FollowState",
+              "usr": "s:9Instagram11FollowStateO"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:9Instagram16UserRelationshipV8username4name4typeACSS_SSAA11FollowStateOtcfc",
+          "mangledName": "$s9Instagram16UserRelationshipV8username4name4typeACSS_SSAA11FollowStateOtcfc",
+          "moduleName": "Instagram",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:9Instagram16UserRelationshipV",
+      "mangledName": "$s9Instagram16UserRelationshipV",
+      "moduleName": "Instagram",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "UserFollowTableViewCell",
+      "printedName": "UserFollowTableViewCell",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "identifier",
+          "printedName": "identifier",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram23UserFollowTableViewCellC10identifierSSvpZ",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC10identifierSSvpZ",
+          "moduleName": "Instagram",
+          "static": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram23UserFollowTableViewCellC10identifierSSvgZ",
+              "mangledName": "$s9Instagram23UserFollowTableViewCellC10identifierSSvgZ",
+              "moduleName": "Instagram",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "model",
+          "printedName": "model",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.UserRelationship?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UserRelationship",
+                  "printedName": "Instagram.UserRelationship",
+                  "usr": "s:9Instagram16UserRelationshipV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram23UserFollowTableViewCellC5model33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLAA0B12RelationshipVSgvp",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC5model33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLAA0B12RelationshipVSgvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "profileImageView",
+          "printedName": "profileImageView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIImageView",
+              "printedName": "UIKit.UIImageView",
+              "usr": "c:objc(cs)UIImageView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram23UserFollowTableViewCellC012profileImageE033_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo07UIImageE0Cvp",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC012profileImageE033_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo07UIImageE0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "nameLabel",
+          "printedName": "nameLabel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UILabel",
+              "printedName": "UIKit.UILabel",
+              "usr": "c:objc(cs)UILabel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram23UserFollowTableViewCellC9nameLabel33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo7UILabelCvp",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC9nameLabel33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo7UILabelCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "userNameLabel",
+          "printedName": "userNameLabel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UILabel",
+              "printedName": "UIKit.UILabel",
+              "usr": "c:objc(cs)UILabel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram23UserFollowTableViewCellC13userNameLabel33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo7UILabelCvp",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC13userNameLabel33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo7UILabelCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "followButton",
+          "printedName": "followButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram23UserFollowTableViewCellC12followButton33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC12followButton33_42C3607C0CCB8FD3D9D2F18CE1688E9ELLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)UserFollowTableViewCell(im)layoutSubviews",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC14layoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Var",
+          "name": "delegate",
+          "printedName": "delegate",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "Instagram.UserFollowTableViewCellDelegate?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvp",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvp",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "ReferenceOwnership",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 5,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.UserFollowTableViewCellDelegate?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UserFollowTableViewCellDelegate",
+                      "printedName": "Instagram.UserFollowTableViewCellDelegate",
+                      "usr": "s:9Instagram31UserFollowTableViewCellDelegateP"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvg",
+              "mangledName": "$s9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.UserFollowTableViewCellDelegate?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UserFollowTableViewCellDelegate",
+                      "printedName": "Instagram.UserFollowTableViewCellDelegate",
+                      "usr": "s:9Instagram31UserFollowTableViewCellDelegateP"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvs",
+              "mangledName": "$s9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvs",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvM",
+              "mangledName": "$s9Instagram23UserFollowTableViewCellC8delegateAA0bcdeF8Delegate_pSgvM",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "configure",
+          "printedName": "configure(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UserRelationship",
+              "printedName": "Instagram.UserRelationship",
+              "usr": "s:9Instagram16UserRelationshipV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram23UserFollowTableViewCellC9configure4withyAA0B12RelationshipV_tF",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC9configure4withyAA0B12RelationshipV_tF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "prepareForReuse",
+          "printedName": "prepareForReuse()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)UserFollowTableViewCell(im)prepareForReuse",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC15prepareForReuseyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "prepareForReuse",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(style:reuseIdentifier:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UserFollowTableViewCell",
+              "printedName": "Instagram.UserFollowTableViewCell",
+              "usr": "c:@M@Instagram@objc(cs)UserFollowTableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CellStyle",
+              "printedName": "UIKit.UITableViewCell.CellStyle",
+              "usr": "c:@E@UITableViewCellStyle"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)UserFollowTableViewCell(im)initWithStyle:reuseIdentifier:",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC5style15reuseIdentifierACSo07UITableeF5StyleV_SSSgtcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithStyle:reuseIdentifier:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.UserFollowTableViewCell?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UserFollowTableViewCell",
+                  "printedName": "Instagram.UserFollowTableViewCell",
+                  "usr": "c:@M@Instagram@objc(cs)UserFollowTableViewCell"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)UserFollowTableViewCell(im)initWithCoder:",
+          "mangledName": "$s9Instagram23UserFollowTableViewCellC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@Instagram@objc(cs)UserFollowTableViewCell",
+      "mangledName": "$s9Instagram23UserFollowTableViewCellC",
+      "moduleName": "Instagram",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UITableViewCell",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UITableViewCell",
+        "UIKit.UIView",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "__DefaultCustomPlaygroundQuickLookable",
+          "printedName": "__DefaultCustomPlaygroundQuickLookable",
+          "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+          "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "AVFoundation",
+      "printedName": "AVFoundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Firebase",
+      "printedName": "Firebase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseAuth",
+      "printedName": "FirebaseAuth",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseDatabase",
+      "printedName": "FirebaseDatabase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseStorage",
+      "printedName": "FirebaseStorage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -6037,6 +7949,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -6511,6 +8430,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -6734,6 +8660,32 @@
           "hasStorage": true
         },
         {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)FormTableViewCell(im)layoutSubviews",
+          "mangledName": "$s9Instagram17FormTableViewCellC14layoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
           "kind": "Constructor",
           "name": "init",
           "printedName": "init(style:reuseIdentifier:)",
@@ -6818,32 +8770,6 @@
             "Required"
           ],
           "init_kind": "Designated"
-        },
-        {
-          "kind": "Function",
-          "name": "layoutSubviews",
-          "printedName": "layoutSubviews()",
-          "children": [
-            {
-              "kind": "TypeNominal",
-              "name": "Void",
-              "printedName": "()"
-            }
-          ],
-          "declKind": "Func",
-          "usr": "c:@M@Instagram@objc(cs)FormTableViewCell(im)layoutSubviews",
-          "mangledName": "$s9Instagram17FormTableViewCellC14layoutSubviewsyyF",
-          "moduleName": "Instagram",
-          "overriding": true,
-          "isOpen": true,
-          "objc_name": "layoutSubviews",
-          "declAttributes": [
-            "Dynamic",
-            "ObjC",
-            "Custom",
-            "Override"
-          ],
-          "funcSelfKind": "NonMutating"
         },
         {
           "kind": "Var",
@@ -7158,6 +9084,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -7190,6 +9123,61 @@
       "printedName": "_Concurrency",
       "declKind": "Import",
       "moduleName": "Instagram"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ProfileTabsCollectionReusableViewDelegate",
+      "printedName": "ProfileTabsCollectionReusableViewDelegate",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "didTapGridButtonTab",
+          "printedName": "didTapGridButtonTab()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram41ProfileTabsCollectionReusableViewDelegateP19didTapGridButtonTabyyF",
+          "mangledName": "$s9Instagram41ProfileTabsCollectionReusableViewDelegateP19didTapGridButtonTabyyF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.ProfileTabsCollectionReusableViewDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.ProfileTabsCollectionReusableViewDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "didTabTaggedButtonTab",
+          "printedName": "didTabTaggedButtonTab()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram41ProfileTabsCollectionReusableViewDelegateP018didTabTaggedButtonI0yyF",
+          "mangledName": "$s9Instagram41ProfileTabsCollectionReusableViewDelegateP018didTabTaggedButtonI0yyF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.ProfileTabsCollectionReusableViewDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.ProfileTabsCollectionReusableViewDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Protocol",
+      "usr": "s:9Instagram41ProfileTabsCollectionReusableViewDelegateP",
+      "mangledName": "$s9Instagram41ProfileTabsCollectionReusableViewDelegateP",
+      "moduleName": "Instagram",
+      "genericSig": "<τ_0_0 : AnyObject>",
+      "sugared_genericSig": "<Self : AnyObject>"
     },
     {
       "kind": "TypeDecl",
@@ -7246,6 +9234,282 @@
               "accessorKind": "get"
             }
           ]
+        },
+        {
+          "kind": "TypeDecl",
+          "name": "Constants",
+          "printedName": "Constants",
+          "children": [
+            {
+              "kind": "Var",
+              "name": "padding",
+              "printedName": "padding",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "CGFloat",
+                  "printedName": "CoreGraphics.CGFloat",
+                  "usr": "s:12CoreGraphics7CGFloatV"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC9ConstantsV7padding12CoreGraphics7CGFloatVvpZ",
+              "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC9ConstantsV7padding12CoreGraphics7CGFloatVvpZ",
+              "moduleName": "Instagram",
+              "static": true,
+              "declAttributes": [
+                "HasInitialValue",
+                "HasStorage"
+              ],
+              "isLet": true,
+              "hasStorage": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "CGFloat",
+                      "printedName": "CoreGraphics.CGFloat",
+                      "usr": "s:12CoreGraphics7CGFloatV"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC9ConstantsV7padding12CoreGraphics7CGFloatVvgZ",
+                  "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC9ConstantsV7padding12CoreGraphics7CGFloatVvgZ",
+                  "moduleName": "Instagram",
+                  "static": true,
+                  "implicit": true,
+                  "declAttributes": [
+                    "Transparent"
+                  ],
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Constants",
+                  "printedName": "Instagram.ProfileTabsCollectionReusableView.Constants",
+                  "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC9ConstantsV"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC9ConstantsVAEycfc",
+              "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC9ConstantsVAEycfc",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "init_kind": "Designated"
+            }
+          ],
+          "declKind": "Struct",
+          "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC9ConstantsV",
+          "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC9ConstantsV",
+          "moduleName": "Instagram",
+          "conformances": [
+            {
+              "kind": "Conformance",
+              "name": "Sendable",
+              "printedName": "Sendable",
+              "usr": "s:s8SendableP",
+              "mangledName": "$ss8SendableP"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "delegate",
+          "printedName": "delegate",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "Instagram.ProfileTabsCollectionReusableViewDelegate?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvp",
+          "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvp",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "ReferenceOwnership",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.ProfileTabsCollectionReusableViewDelegate?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProfileTabsCollectionReusableViewDelegate",
+                      "printedName": "Instagram.ProfileTabsCollectionReusableViewDelegate",
+                      "usr": "s:9Instagram41ProfileTabsCollectionReusableViewDelegateP"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvg",
+              "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.ProfileTabsCollectionReusableViewDelegate?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProfileTabsCollectionReusableViewDelegate",
+                      "printedName": "Instagram.ProfileTabsCollectionReusableViewDelegate",
+                      "usr": "s:9Instagram41ProfileTabsCollectionReusableViewDelegateP"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvs",
+              "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvs",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvM",
+              "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC8delegateAA0bcdeF8Delegate_pSgvM",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "gridButton",
+          "printedName": "gridButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC10gridButton33_418A5DE5A4A13852A496DC9CAE1DF83BLLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC10gridButton33_418A5DE5A4A13852A496DC9CAE1DF83BLLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "taggedButton",
+          "printedName": "taggedButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram33ProfileTabsCollectionReusableViewC12taggedButton33_418A5DE5A4A13852A496DC9CAE1DF83BLLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC12taggedButton33_418A5DE5A4A13852A496DC9CAE1DF83BLLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)ProfileTabsCollectionReusableView(im)layoutSubviews",
+          "mangledName": "$s9Instagram33ProfileTabsCollectionReusableViewC14layoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
         },
         {
           "kind": "Constructor",
@@ -7435,6 +9699,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -7689,6 +9960,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -7727,6 +10005,167 @@
       "name": "PostViewController",
       "printedName": "PostViewController",
       "children": [
+        {
+          "kind": "Var",
+          "name": "model",
+          "printedName": "model",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.UserPost?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UserPost",
+                  "printedName": "Instagram.UserPost",
+                  "usr": "s:9Instagram8UserPostV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram18PostViewControllerC5model33_683940E76783C1A3206BE60D4550868FLLAA04UserB0VSgvp",
+          "mangledName": "$s9Instagram18PostViewControllerC5model33_683940E76783C1A3206BE60D4550868FLLAA04UserB0VSgvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "tableView",
+          "printedName": "tableView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram18PostViewControllerC05tableC033_683940E76783C1A3206BE60D4550868FLLSo07UITableC0Cvp",
+          "mangledName": "$s9Instagram18PostViewControllerC05tableC033_683940E76783C1A3206BE60D4550868FLLSo07UITableC0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(model:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "PostViewController",
+              "printedName": "Instagram.PostViewController",
+              "usr": "c:@M@Instagram@objc(cs)PostViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.UserPost?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UserPost",
+                  "printedName": "Instagram.UserPost",
+                  "usr": "s:9Instagram8UserPostV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:9Instagram18PostViewControllerC5modelAcA04UserB0VSg_tcfc",
+          "mangledName": "$s9Instagram18PostViewControllerC5modelAcA04UserB0VSg_tcfc",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.PostViewController?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PostViewController",
+                  "printedName": "Instagram.PostViewController",
+                  "usr": "c:@M@Instagram@objc(cs)PostViewController"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)PostViewController(im)initWithCoder:",
+          "mangledName": "$s9Instagram18PostViewControllerC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "viewDidLayoutSubviews",
+          "printedName": "viewDidLayoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)PostViewController(im)viewDidLayoutSubviews",
+          "mangledName": "$s9Instagram18PostViewControllerC21viewDidLayoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "viewDidLayoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
         {
           "kind": "Function",
           "name": "viewDidLoad",
@@ -7809,45 +10248,145 @@
           "init_kind": "Designated"
         },
         {
-          "kind": "Constructor",
-          "name": "init",
-          "printedName": "init(coder:)",
+          "kind": "Function",
+          "name": "numberOfSections",
+          "printedName": "numberOfSections(in:)",
           "children": [
             {
               "kind": "TypeNominal",
-              "name": "Optional",
-              "printedName": "Instagram.PostViewController?",
-              "children": [
-                {
-                  "kind": "TypeNominal",
-                  "name": "PostViewController",
-                  "printedName": "Instagram.PostViewController",
-                  "usr": "c:@M@Instagram@objc(cs)PostViewController"
-                }
-              ],
-              "usr": "s:Sq"
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
             },
             {
               "kind": "TypeNominal",
-              "name": "NSCoder",
-              "printedName": "Foundation.NSCoder",
-              "usr": "c:objc(cs)NSCoder"
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
             }
           ],
-          "declKind": "Constructor",
-          "usr": "c:@M@Instagram@objc(cs)PostViewController(im)initWithCoder:",
-          "mangledName": "$s9Instagram18PostViewControllerC5coderACSgSo7NSCoderC_tcfc",
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)PostViewController(im)numberOfSectionsInTableView:",
+          "mangledName": "$s9Instagram18PostViewControllerC16numberOfSections2inSiSo07UITableC0C_tF",
           "moduleName": "Instagram",
-          "overriding": true,
-          "implicit": true,
-          "objc_name": "initWithCoder:",
+          "isOpen": true,
+          "objc_name": "numberOfSectionsInTableView:",
           "declAttributes": [
             "Dynamic",
             "ObjC",
-            "Custom",
-            "Required"
+            "Custom"
           ],
-          "init_kind": "Designated"
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:numberOfRowsInSection:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)PostViewController(im)tableView:numberOfRowsInSection:",
+          "mangledName": "$s9Instagram18PostViewControllerC05tableC0_21numberOfRowsInSectionSiSo07UITableC0C_SitF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "tableView:numberOfRowsInSection:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:cellForRowAt:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITableViewCell",
+              "printedName": "UIKit.UITableViewCell",
+              "usr": "c:objc(cs)UITableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)PostViewController(im)tableView:cellForRowAtIndexPath:",
+          "mangledName": "$s9Instagram18PostViewControllerC05tableC0_12cellForRowAtSo07UITableC4CellCSo0jC0C_10Foundation9IndexPathVtF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "tableView:cellForRowAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:didSelectRowAt:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)PostViewController(im)tableView:didSelectRowAtIndexPath:",
+          "mangledName": "$s9Instagram18PostViewControllerC05tableC0_14didSelectRowAtySo07UITableC0C_10Foundation9IndexPathVtF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "tableView:didSelectRowAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
         }
       ],
       "declKind": "Class",
@@ -7860,7 +10399,6 @@
         "ObjC"
       ],
       "superclassUsr": "c:objc(cs)UIViewController",
-      "inheritsConvenienceInitializers": true,
       "superclassNames": [
         "UIKit.UIViewController",
         "UIKit.UIResponder",
@@ -7957,6 +10495,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -8285,6 +10830,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -8348,6 +10900,68 @@
           ],
           "fixedbinaryorder": 0,
           "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "spinner",
+          "printedName": "spinner",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIActivityIndicatorView",
+              "printedName": "UIKit.UIActivityIndicatorView",
+              "usr": "c:objc(cs)UIActivityIndicatorView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram27NotificationsViewControllerC7spinner33_7DAD1ABEE4DA7EF1B075BDCDE435B8CFLLSo019UIActivityIndicatorC0Cvp",
+          "mangledName": "$s9Instagram27NotificationsViewControllerC7spinner33_7DAD1ABEE4DA7EF1B075BDCDE435B8CFLLSo019UIActivityIndicatorC0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "$__lazy_storage_$_noNotificationsView",
+          "printedName": "$__lazy_storage_$_noNotificationsView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.NoNotificationsView?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NoNotificationsView",
+                  "printedName": "Instagram.NoNotificationsView",
+                  "usr": "c:@M@Instagram@objc(cs)NoNotificationsView"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram27NotificationsViewControllerC020$__lazy_storage_$_nobC033_7DAD1ABEE4DA7EF1B075BDCDE435B8CFLLAA02NobC0CSgvp",
+          "mangledName": "$s9Instagram27NotificationsViewControllerC020$__lazy_storage_$_nobC033_7DAD1ABEE4DA7EF1B075BDCDE435B8CFLLAA02NobC0CSgvp",
+          "moduleName": "Instagram",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
           "hasStorage": true
         },
         {
@@ -8680,6 +11294,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -9101,6 +11722,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -9418,6 +12046,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -9686,6 +12321,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -10396,6 +13038,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -10645,6 +13294,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -10717,6 +13373,624 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SDWebImage",
+      "printedName": "SDWebImage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SafariServices",
+      "printedName": "SafariServices",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NotificationsFollowIventTableViewCellDelegate",
+      "printedName": "NotificationsFollowIventTableViewCellDelegate",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "didTapFollowUnFollowButton",
+          "printedName": "didTapFollowUnFollowButton(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram45NotificationsFollowIventTableViewCellDelegateP06didTapc2UnC6Button4withySS_tF",
+          "mangledName": "$s9Instagram45NotificationsFollowIventTableViewCellDelegateP06didTapc2UnC6Button4withySS_tF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.NotificationsFollowIventTableViewCellDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.NotificationsFollowIventTableViewCellDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Protocol",
+      "usr": "s:9Instagram45NotificationsFollowIventTableViewCellDelegateP",
+      "mangledName": "$s9Instagram45NotificationsFollowIventTableViewCellDelegateP",
+      "moduleName": "Instagram",
+      "genericSig": "<τ_0_0 : AnyObject>",
+      "sugared_genericSig": "<Self : AnyObject>"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NotificationsFollowIventTableViewCell",
+      "printedName": "NotificationsFollowIventTableViewCell",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "identifier",
+          "printedName": "identifier",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC10identifierSSvpZ",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC10identifierSSvpZ",
+          "moduleName": "Instagram",
+          "static": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC10identifierSSvgZ",
+              "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC10identifierSSvgZ",
+              "moduleName": "Instagram",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "profileImageView",
+          "printedName": "profileImageView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIImageView",
+              "printedName": "UIKit.UIImageView",
+              "usr": "c:objc(cs)UIImageView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC012profileImageF033_51266623B0193F23673C53C5709A48C0LLSo07UIImageF0Cvp",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC012profileImageF033_51266623B0193F23673C53C5709A48C0LLSo07UIImageF0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "label",
+          "printedName": "label",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UILabel",
+              "printedName": "UIKit.UILabel",
+              "usr": "c:objc(cs)UILabel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC5label33_51266623B0193F23673C53C5709A48C0LLSo7UILabelCvp",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC5label33_51266623B0193F23673C53C5709A48C0LLSo7UILabelCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "followButton",
+          "printedName": "followButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC12followButton33_51266623B0193F23673C53C5709A48C0LLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC12followButton33_51266623B0193F23673C53C5709A48C0LLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell(im)layoutSubviews",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC14layoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(style:reuseIdentifier:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NotificationsFollowIventTableViewCell",
+              "printedName": "Instagram.NotificationsFollowIventTableViewCell",
+              "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CellStyle",
+              "printedName": "UIKit.UITableViewCell.CellStyle",
+              "usr": "c:@E@UITableViewCellStyle"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell(im)initWithStyle:reuseIdentifier:",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC5style15reuseIdentifierACSo07UITablefG5StyleV_SSSgtcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithStyle:reuseIdentifier:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.NotificationsFollowIventTableViewCell?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NotificationsFollowIventTableViewCell",
+                  "printedName": "Instagram.NotificationsFollowIventTableViewCell",
+                  "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell(im)initWithCoder:",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Var",
+          "name": "delegate",
+          "printedName": "delegate",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "Instagram.NotificationsFollowIventTableViewCell?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvp",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvp",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "ReferenceOwnership",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.NotificationsFollowIventTableViewCell?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "NotificationsFollowIventTableViewCell",
+                      "printedName": "Instagram.NotificationsFollowIventTableViewCell",
+                      "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvg",
+              "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.NotificationsFollowIventTableViewCell?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "NotificationsFollowIventTableViewCell",
+                      "printedName": "Instagram.NotificationsFollowIventTableViewCell",
+                      "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvs",
+              "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvs",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvM",
+              "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC8delegateACSgvM",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "prepareForReuse",
+          "printedName": "prepareForReuse()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell(im)prepareForReuse",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC15prepareForReuseyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "prepareForReuse",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "configure",
+          "printedName": "configure(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram37NotificationsFollowIventTableViewCellC9configure4withySS_tF",
+          "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC9configure4withySS_tF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell",
+      "mangledName": "$s9Instagram37NotificationsFollowIventTableViewCellC",
+      "moduleName": "Instagram",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UITableViewCell",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UITableViewCell",
+        "UIKit.UIView",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "__DefaultCustomPlaygroundQuickLookable",
+          "printedName": "__DefaultCustomPlaygroundQuickLookable",
+          "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+          "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "AVFoundation",
+      "printedName": "AVFoundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Firebase",
+      "printedName": "Firebase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseAuth",
+      "printedName": "FirebaseAuth",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseDatabase",
+      "printedName": "FirebaseDatabase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseStorage",
+      "printedName": "FirebaseStorage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -10995,6 +14269,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -11065,6 +14346,40 @@
             "HasStorage"
           ],
           "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "userPosts",
+          "printedName": "userPosts",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Instagram.UserPost]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UserPost",
+                  "printedName": "Instagram.UserPost",
+                  "usr": "s:9Instagram8UserPostV"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram21ProfileViewControllerC9userPosts33_D4C7CEC8E9C738BDD64530F63CC660D7LLSayAA8UserPostVGvp",
+          "mangledName": "$s9Instagram21ProfileViewControllerC9userPosts33_D4C7CEC8E9C738BDD64530F63CC660D7LLSayAA8UserPostVGvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
           "hasStorage": true
         },
         {
@@ -11212,6 +14527,156 @@
             "Required"
           ],
           "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "didTapGridButtonTab",
+          "printedName": "didTapGridButtonTab()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram21ProfileViewControllerC19didTapGridButtonTabyyF",
+          "mangledName": "$s9Instagram21ProfileViewControllerC19didTapGridButtonTabyyF",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom",
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "didTabTaggedButtonTab",
+          "printedName": "didTabTaggedButtonTab()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram21ProfileViewControllerC018didTabTaggedButtonF0yyF",
+          "mangledName": "$s9Instagram21ProfileViewControllerC018didTabTaggedButtonF0yyF",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom",
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapPostsButton",
+          "printedName": "profileHeaderDidTapPostsButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram21ProfileViewControllerC30profileHeaderDidTapPostsButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "mangledName": "$s9Instagram21ProfileViewControllerC30profileHeaderDidTapPostsButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom",
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapFollowersButton",
+          "printedName": "profileHeaderDidTapFollowersButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram21ProfileViewControllerC34profileHeaderDidTapFollowersButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "mangledName": "$s9Instagram21ProfileViewControllerC34profileHeaderDidTapFollowersButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom",
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapFollowingButton",
+          "printedName": "profileHeaderDidTapFollowingButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram21ProfileViewControllerC34profileHeaderDidTapFollowingButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "mangledName": "$s9Instagram21ProfileViewControllerC34profileHeaderDidTapFollowingButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom",
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "profileHeaderDidTapEditProfileButton",
+          "printedName": "profileHeaderDidTapEditProfileButton(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileInfoHeaderCollectionReusableView",
+              "printedName": "Instagram.ProfileInfoHeaderCollectionReusableView",
+              "usr": "c:@M@Instagram@objc(cs)ProfileInfoHeaderCollectionReusableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram21ProfileViewControllerC023profileHeaderDidTapEditB6ButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "mangledName": "$s9Instagram21ProfileViewControllerC023profileHeaderDidTapEditB6ButtonyyAA0b4Infof18CollectionReusableC0CF",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom",
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
         },
         {
           "kind": "Function",
@@ -11454,6 +14919,20 @@
       "conformances": [
         {
           "kind": "Conformance",
+          "name": "ProfileTabsCollectionReusableViewDelegate",
+          "printedName": "ProfileTabsCollectionReusableViewDelegate",
+          "usr": "s:9Instagram41ProfileTabsCollectionReusableViewDelegateP",
+          "mangledName": "$s9Instagram41ProfileTabsCollectionReusableViewDelegateP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ProfileInfoHeaderCollectionReusableViewDelegate",
+          "printedName": "ProfileInfoHeaderCollectionReusableViewDelegate",
+          "usr": "s:9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP",
+          "mangledName": "$s9Instagram47ProfileInfoHeaderCollectionReusableViewDelegateP"
+        },
+        {
+          "kind": "Conformance",
           "name": "Equatable",
           "printedName": "Equatable",
           "usr": "s:SQ",
@@ -11542,6 +15021,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -11824,6 +15310,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -12165,6 +15658,624 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SDWebImage",
+      "printedName": "SDWebImage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SafariServices",
+      "printedName": "SafariServices",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NotificationLikeIventTableViewCellDelegate",
+      "printedName": "NotificationLikeIventTableViewCellDelegate",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "didTapRalatedPostButton",
+          "printedName": "didTapRalatedPostButton(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram42NotificationLikeIventTableViewCellDelegateP23didTapRalatedPostButton4withySS_tF",
+          "mangledName": "$s9Instagram42NotificationLikeIventTableViewCellDelegateP23didTapRalatedPostButton4withySS_tF",
+          "moduleName": "Instagram",
+          "genericSig": "<τ_0_0 where τ_0_0 : Instagram.NotificationLikeIventTableViewCellDelegate>",
+          "sugared_genericSig": "<Self where Self : Instagram.NotificationLikeIventTableViewCellDelegate>",
+          "protocolReq": true,
+          "reqNewWitnessTableEntry": true,
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Protocol",
+      "usr": "s:9Instagram42NotificationLikeIventTableViewCellDelegateP",
+      "mangledName": "$s9Instagram42NotificationLikeIventTableViewCellDelegateP",
+      "moduleName": "Instagram",
+      "genericSig": "<τ_0_0 : AnyObject>",
+      "sugared_genericSig": "<Self : AnyObject>"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "NotificationLikeIventTableViewCell",
+      "printedName": "NotificationLikeIventTableViewCell",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "identifier",
+          "printedName": "identifier",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram34NotificationLikeIventTableViewCellC10identifierSSvpZ",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC10identifierSSvpZ",
+          "moduleName": "Instagram",
+          "static": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram34NotificationLikeIventTableViewCellC10identifierSSvgZ",
+              "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC10identifierSSvgZ",
+              "moduleName": "Instagram",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "profileImageView",
+          "printedName": "profileImageView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIImageView",
+              "printedName": "UIKit.UIImageView",
+              "usr": "c:objc(cs)UIImageView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram34NotificationLikeIventTableViewCellC012profileImageF033_067C1ED3A80B3FA5F2197E5FAB669720LLSo07UIImageF0Cvp",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC012profileImageF033_067C1ED3A80B3FA5F2197E5FAB669720LLSo07UIImageF0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "label",
+          "printedName": "label",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UILabel",
+              "printedName": "UIKit.UILabel",
+              "usr": "c:objc(cs)UILabel"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram34NotificationLikeIventTableViewCellC5label33_067C1ED3A80B3FA5F2197E5FAB669720LLSo7UILabelCvp",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC5label33_067C1ED3A80B3FA5F2197E5FAB669720LLSo7UILabelCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "postButton",
+          "printedName": "postButton",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UIButton",
+              "printedName": "UIKit.UIButton",
+              "usr": "c:objc(cs)UIButton"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram34NotificationLikeIventTableViewCellC10postButton33_067C1ED3A80B3FA5F2197E5FAB669720LLSo8UIButtonCvp",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC10postButton33_067C1ED3A80B3FA5F2197E5FAB669720LLSo8UIButtonCvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)NotificationLikeIventTableViewCell(im)layoutSubviews",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC14layoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(style:reuseIdentifier:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "NotificationLikeIventTableViewCell",
+              "printedName": "Instagram.NotificationLikeIventTableViewCell",
+              "usr": "c:@M@Instagram@objc(cs)NotificationLikeIventTableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CellStyle",
+              "printedName": "UIKit.UITableViewCell.CellStyle",
+              "usr": "c:@E@UITableViewCellStyle"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Swift.String?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)NotificationLikeIventTableViewCell(im)initWithStyle:reuseIdentifier:",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC5style15reuseIdentifierACSo07UITablefG5StyleV_SSSgtcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithStyle:reuseIdentifier:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.NotificationLikeIventTableViewCell?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NotificationLikeIventTableViewCell",
+                  "printedName": "Instagram.NotificationLikeIventTableViewCell",
+                  "usr": "c:@M@Instagram@objc(cs)NotificationLikeIventTableViewCell"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)NotificationLikeIventTableViewCell(im)initWithCoder:",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Var",
+          "name": "delegate",
+          "printedName": "delegate",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "Instagram.NotificationsFollowIventTableViewCell?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvp",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvp",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "ReferenceOwnership",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.NotificationsFollowIventTableViewCell?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "NotificationsFollowIventTableViewCell",
+                      "printedName": "Instagram.NotificationsFollowIventTableViewCell",
+                      "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvg",
+              "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvg",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Instagram.NotificationsFollowIventTableViewCell?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "NotificationsFollowIventTableViewCell",
+                      "printedName": "Instagram.NotificationsFollowIventTableViewCell",
+                      "usr": "c:@M@Instagram@objc(cs)NotificationsFollowIventTableViewCell"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvs",
+              "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvs",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvM",
+              "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC8delegateAA019NotificationsFollowdefG0CSgvM",
+              "moduleName": "Instagram",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "prepareForReuse",
+          "printedName": "prepareForReuse()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)NotificationLikeIventTableViewCell(im)prepareForReuse",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC15prepareForReuseyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "prepareForReuse",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "configure",
+          "printedName": "configure(with:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:9Instagram34NotificationLikeIventTableViewCellC9configure4withySS_tF",
+          "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC9configure4withySS_tF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@Instagram@objc(cs)NotificationLikeIventTableViewCell",
+      "mangledName": "$s9Instagram34NotificationLikeIventTableViewCellC",
+      "moduleName": "Instagram",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UITableViewCell",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UITableViewCell",
+        "UIKit.UIView",
+        "UIKit.UIResponder",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "__DefaultCustomPlaygroundQuickLookable",
+          "printedName": "__DefaultCustomPlaygroundQuickLookable",
+          "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+          "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "AVFoundation",
+      "printedName": "AVFoundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Firebase",
+      "printedName": "Firebase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseAuth",
+      "printedName": "FirebaseAuth",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseDatabase",
+      "printedName": "FirebaseDatabase",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseStorage",
+      "printedName": "FirebaseStorage",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -12657,6 +16768,13 @@
     },
     {
       "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
       "name": "SDWebImage",
       "printedName": "SDWebImage",
       "declKind": "Import",
@@ -12695,6 +16813,168 @@
       "name": "ListViewController",
       "printedName": "ListViewController",
       "children": [
+        {
+          "kind": "Var",
+          "name": "data",
+          "printedName": "data",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Instagram.UserRelationship]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UserRelationship",
+                  "printedName": "Instagram.UserRelationship",
+                  "usr": "s:9Instagram16UserRelationshipV"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram18ListViewControllerC4data33_AEFD9D40AA1131ECDDE15B76A149BC92LLSayAA16UserRelationshipVGvp",
+          "mangledName": "$s9Instagram18ListViewControllerC4data33_AEFD9D40AA1131ECDDE15B76A149BC92LLSayAA16UserRelationshipVGvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "tableView",
+          "printedName": "tableView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:9Instagram18ListViewControllerC05tableC033_AEFD9D40AA1131ECDDE15B76A149BC92LLSo07UITableC0Cvp",
+          "mangledName": "$s9Instagram18ListViewControllerC05tableC033_AEFD9D40AA1131ECDDE15B76A149BC92LLSo07UITableC0Cvp",
+          "moduleName": "Instagram",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(data:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ListViewController",
+              "printedName": "Instagram.ListViewController",
+              "usr": "c:@M@Instagram@objc(cs)ListViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Instagram.UserRelationship]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UserRelationship",
+                  "printedName": "Instagram.UserRelationship",
+                  "usr": "s:9Instagram16UserRelationshipV"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:9Instagram18ListViewControllerC4dataACSayAA16UserRelationshipVG_tcfc",
+          "mangledName": "$s9Instagram18ListViewControllerC4dataACSayAA16UserRelationshipVG_tcfc",
+          "moduleName": "Instagram",
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Instagram.ListViewController?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ListViewController",
+                  "printedName": "Instagram.ListViewController",
+                  "usr": "c:@M@Instagram@objc(cs)ListViewController"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@Instagram@objc(cs)ListViewController(im)initWithCoder:",
+          "mangledName": "$s9Instagram18ListViewControllerC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Function",
+          "name": "viewDidLayoutSubviews",
+          "printedName": "viewDidLayoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@Instagram@objc(cs)ListViewController(im)viewDidLayoutSubviews",
+          "mangledName": "$s9Instagram18ListViewControllerC21viewDidLayoutSubviewsyyF",
+          "moduleName": "Instagram",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "viewDidLayoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
         {
           "kind": "Function",
           "name": "viewDidLoad",
@@ -12777,45 +17057,209 @@
           "init_kind": "Designated"
         },
         {
-          "kind": "Constructor",
-          "name": "init",
-          "printedName": "init(coder:)",
+          "kind": "Function",
+          "name": "didTapFollowUnFollowButton",
+          "printedName": "didTapFollowUnFollowButton(with:)",
           "children": [
             {
               "kind": "TypeNominal",
-              "name": "Optional",
-              "printedName": "Instagram.ListViewController?",
-              "children": [
-                {
-                  "kind": "TypeNominal",
-                  "name": "ListViewController",
-                  "printedName": "Instagram.ListViewController",
-                  "usr": "c:@M@Instagram@objc(cs)ListViewController"
-                }
-              ],
-              "usr": "s:Sq"
+              "name": "Void",
+              "printedName": "()"
             },
             {
               "kind": "TypeNominal",
-              "name": "NSCoder",
-              "printedName": "Foundation.NSCoder",
-              "usr": "c:objc(cs)NSCoder"
+              "name": "UserRelationship",
+              "printedName": "Instagram.UserRelationship",
+              "usr": "s:9Instagram16UserRelationshipV"
             }
           ],
-          "declKind": "Constructor",
-          "usr": "c:@M@Instagram@objc(cs)ListViewController(im)initWithCoder:",
-          "mangledName": "$s9Instagram18ListViewControllerC5coderACSgSo7NSCoderC_tcfc",
+          "declKind": "Func",
+          "usr": "s:9Instagram18ListViewControllerC014didTapFollowUnG6Button4withyAA16UserRelationshipV_tF",
+          "mangledName": "$s9Instagram18ListViewControllerC014didTapFollowUnG6Button4withyAA16UserRelationshipV_tF",
           "moduleName": "Instagram",
-          "overriding": true,
-          "implicit": true,
-          "objc_name": "initWithCoder:",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "numberOfSections",
+          "printedName": "numberOfSections(in:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)ListViewController(im)numberOfSectionsInTableView:",
+          "mangledName": "$s9Instagram18ListViewControllerC16numberOfSections2inSiSo07UITableC0C_tF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "numberOfSectionsInTableView:",
           "declAttributes": [
             "Dynamic",
             "ObjC",
-            "Custom",
-            "Required"
+            "Custom"
           ],
-          "init_kind": "Designated"
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:numberOfRowsInSection:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)ListViewController(im)tableView:numberOfRowsInSection:",
+          "mangledName": "$s9Instagram18ListViewControllerC05tableC0_21numberOfRowsInSectionSiSo07UITableC0C_SitF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "tableView:numberOfRowsInSection:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:cellForRowAt:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "UITableViewCell",
+              "printedName": "UIKit.UITableViewCell",
+              "usr": "c:objc(cs)UITableViewCell"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)ListViewController(im)tableView:cellForRowAtIndexPath:",
+          "mangledName": "$s9Instagram18ListViewControllerC05tableC0_12cellForRowAtSo07UITableC4CellCSo0jC0C_10Foundation9IndexPathVtF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "tableView:cellForRowAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:didSelectRowAt:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)ListViewController(im)tableView:didSelectRowAtIndexPath:",
+          "mangledName": "$s9Instagram18ListViewControllerC05tableC0_14didSelectRowAtySo07UITableC0C_10Foundation9IndexPathVtF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "tableView:didSelectRowAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tableView",
+          "printedName": "tableView(_:heightForRowAt:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CGFloat",
+              "printedName": "CoreGraphics.CGFloat",
+              "usr": "s:12CoreGraphics7CGFloatV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UITableView",
+              "printedName": "UIKit.UITableView",
+              "usr": "c:objc(cs)UITableView"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@CM@Instagram@objc(cs)ListViewController(im)tableView:heightForRowAtIndexPath:",
+          "mangledName": "$s9Instagram18ListViewControllerC05tableC0_14heightForRowAt12CoreGraphics7CGFloatVSo07UITableC0C_10Foundation9IndexPathVtF",
+          "moduleName": "Instagram",
+          "isOpen": true,
+          "objc_name": "tableView:heightForRowAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
         }
       ],
       "declKind": "Class",
@@ -12828,13 +17272,19 @@
         "ObjC"
       ],
       "superclassUsr": "c:objc(cs)UIViewController",
-      "inheritsConvenienceInitializers": true,
       "superclassNames": [
         "UIKit.UIViewController",
         "UIKit.UIResponder",
         "ObjectiveC.NSObject"
       ],
       "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "UserFollowTableViewCellDelegate",
+          "printedName": "UserFollowTableViewCellDelegate",
+          "usr": "s:9Instagram31UserFollowTableViewCellDelegateP",
+          "mangledName": "$s9Instagram31UserFollowTableViewCellDelegateP"
+        },
         {
           "kind": "Conformance",
           "name": "Equatable",
@@ -12925,6 +17375,13 @@
       "kind": "Import",
       "name": "Foundation",
       "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "Instagram"
+    },
+    {
+      "kind": "Import",
+      "name": "GoogleDataTransport",
+      "printedName": "GoogleDataTransport",
       "declKind": "Import",
       "moduleName": "Instagram"
     },
@@ -14173,6 +18630,13 @@
       "conformances": [
         {
           "kind": "Conformance",
+          "name": "_ExpressibleByBuiltinStringLiteral",
+          "printedName": "_ExpressibleByBuiltinStringLiteral",
+          "usr": "s:s34_ExpressibleByBuiltinStringLiteralP",
+          "mangledName": "$ss34_ExpressibleByBuiltinStringLiteralP"
+        },
+        {
+          "kind": "Conformance",
           "name": "Decodable",
           "printedName": "Decodable",
           "usr": "s:Se",
@@ -14247,13 +18711,6 @@
           "printedName": "_ExpressibleByBuiltinExtendedGraphemeClusterLiteral",
           "usr": "s:s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP",
           "mangledName": "$ss51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
-        },
-        {
-          "kind": "Conformance",
-          "name": "_ExpressibleByBuiltinStringLiteral",
-          "printedName": "_ExpressibleByBuiltinStringLiteral",
-          "usr": "s:s34_ExpressibleByBuiltinStringLiteralP",
-          "mangledName": "$ss34_ExpressibleByBuiltinStringLiteralP"
         },
         {
           "kind": "Conformance",
