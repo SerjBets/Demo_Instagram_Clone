@@ -146,7 +146,6 @@ class LoginViewController: UIViewController {
     }
     
 // MARK: === Login, CreateNewUser, Terms, Privasy buttons actions ===
-    
     @objc private func didTapCreateAccountButton() {
         let regVC = RegistrationViewController()
         regVC.title = "Create account"

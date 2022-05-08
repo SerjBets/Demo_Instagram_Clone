@@ -1,19 +1,11 @@
 //  EditProfileViewController.swift
-//  LoginViewController.swift
 //  Instagram
 //  Created by Serhii Bets on 13.04.2022.
 //  Copyright by Serhii Bets. All rights reserved.
 
 import UIKit
 
-struct EditProfileFormModel {
-    let label: String
-    let placeholder: String
-    var value: String?
-}
-
 class EditProfileViewController: UIViewController {
-    
     private var models = [[EditProfileFormModel]]()
 
 // MARK: === Create Ui ===
@@ -23,6 +15,7 @@ class EditProfileViewController: UIViewController {
         tableView.register(FormTableViewCell.self, forCellReuseIdentifier: FormTableViewCell.identifier)
         return tableView
     }()
+    
     //Create TableViewHeader
     private func createTableHeaderView() -> UIView {
         let header = UIView(frame: CGRect(x: 0, y: 0, width: view.width, height: view.height/4).integral)

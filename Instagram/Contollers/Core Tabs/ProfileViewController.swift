@@ -81,8 +81,25 @@ extension ProfileViewController: UICollectionViewDelegate, UICollectionViewDataS
         collectionView.deselectItem(at: indexPath, animated: true)
         // get model and open postController
         //let model = userPosts[indexPath.row]
-        let vc = PostViewController(model: nil)
-        vc.title = "Post"
+        let user = User(username: "Jon",
+                        bio: "hello bio",
+                        name: (first: "", last: ""),
+                        profilePhoto: URL(string: "http://google.com")!,
+                        birthDate: Date(),
+                        gender: .male,
+                        counts: UserCount(followers: 1, following: 1, posts: 1), joinDate: Date())
+        let post = UserPost(identifier: "",
+                            postType: .photo,
+                            tumbnailImageURL: URL(string: "http://google.com")!,
+                            postUrl: URL(string: "http://google.com")!,
+                            caption: nil,
+                            likeCount: [],
+                            comments: [],
+                            createdDate: Date(),
+                            taggedUser: [],
+                            owner: user)
+        let vc = PostViewController(model: post)
+        vc.title = post.postType.rawValue
         vc.navigationItem.largeTitleDisplayMode = .never
         navigationController?.pushViewController(vc, animated: true)
         
@@ -116,7 +133,7 @@ extension ProfileViewController: UICollectionViewDelegate, UICollectionViewDataS
     }
 }
 
-//MARK: === ProfileInfoHeaderCollectionReusableViewDelegate ===
+//MARK: === ProfileInfoHeaderCollectionReusableViewDelegate extension ===
 extension ProfileViewController: ProfileInfoHeaderCollectionReusableViewDelegate {
     func profileHeaderDidTapPostsButton(_ header: ProfileInfoHeaderCollectionReusableView) {
         //Scroll to the posts
@@ -153,7 +170,7 @@ extension ProfileViewController: ProfileInfoHeaderCollectionReusableViewDelegate
     
 }
 
-//MARK: === ProfileTabsCollectionReusableViewDelegate ===
+//MARK: === ProfileTabsCollectionReusableViewDelegate extension ===
 extension ProfileViewController: ProfileTabsCollectionReusableViewDelegate {
     func didTapGridButtonTab() {
         //Reload collectionView with data

@@ -6,15 +6,18 @@
 import UIKit
 
 class ListViewController: UIViewController {
-    
     private let data: [UserRelationship]
-    
+
+//MARK: === Create UI elements ===
+
+    //Create tableView
     private let tableView: UITableView = {
         let tableView = UITableView()
         tableView.register(UserFollowTableViewCell.self, forCellReuseIdentifier: UserFollowTableViewCell.identifier)
         return tableView
     }()
     
+//MARK: === Init ===
     init(data: [UserRelationship]) {
         self.data = data
         super.init(nibName: nil, bundle: nil)
@@ -24,6 +27,7 @@ class ListViewController: UIViewController {
         fatalError("init(coder:) has not been implemented")
     }
     
+//MARK: === ViewController LifeCycle ===
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
         tableView.frame = view.bounds
@@ -35,11 +39,10 @@ class ListViewController: UIViewController {
         view.addSubview(tableView)
         tableView.delegate = self
         tableView.dataSource = self
-        
     }
-
 }
 
+//MARK: === UITableViewDelegate, UITableViewDataSource extension ===
 extension ListViewController: UITableViewDelegate, UITableViewDataSource {
     func numberOfSections(in tableView: UITableView) -> Int {
         return 1
@@ -61,8 +64,7 @@ extension ListViewController: UITableViewDelegate, UITableViewDataSource {
         tableView.deselectRow(at: indexPath, animated: true)
         
         //Go to profile of selected cell
-        let model = data[indexPath.row]
-        
+        _ = data[indexPath.row]
     }
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
@@ -71,6 +73,7 @@ extension ListViewController: UITableViewDelegate, UITableViewDataSource {
     
 }
 
+//MARK: === UserFollowTableViewCellDelegate extension ===
 extension ListViewController: UserFollowTableViewCellDelegate {
     func didTapFollowUnFollowButton(with model: UserRelationship) {
         switch model.type {
@@ -80,6 +83,4 @@ extension ListViewController: UserFollowTableViewCellDelegate {
             //Perform firebase update to follow
         }
     }
-    
-    
 }

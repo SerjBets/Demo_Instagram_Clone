@@ -1,9 +1,7 @@
-//
 //  ProfileInfoCollectionReusableView.swift
 //  Instagram
-//
-//  Created by Сергей Бец on 04.05.2022.
-//
+//  Created by Serhii Bets on 13.04.2022.
+//  Copyright by Serhii Bets. All rights reserved.
 
 import UIKit
 import GoogleDataTransport
@@ -21,14 +19,14 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
     public weak var delegate: ProfileInfoHeaderCollectionReusableViewDelegate?
     
 //MARK: === Create UI elements ===
-    
+    //Create profilePhotoImageView
     private let profilePhotoImageView: UIImageView = {
         let imageView = UIImageView()
         imageView.backgroundColor = .red
         imageView.layer.masksToBounds = true
         return imageView
     }()
-    
+    //Create postsButton
     private let postsButton: UIButton = {
         let button = UIButton()
         button.setTitle("Posts", for: .normal)
@@ -36,7 +34,7 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
         button.backgroundColor = .secondarySystemBackground
         return button
     }()
-    
+    //Create followingButton
     private let followingButton: UIButton = {
         let button = UIButton()
         button.setTitle("Following", for: .normal)
@@ -44,7 +42,7 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
         button.backgroundColor = .secondarySystemBackground
         return button
     }()
-    
+    //Create followersButton
     private let followersButton: UIButton = {
         let button = UIButton()
         button.setTitle("Followers", for: .normal)
@@ -52,7 +50,7 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
         button.backgroundColor = .secondarySystemBackground
         return button
     }()
-    
+    //Create editProfileButton
     private let editProfileButton: UIButton = {
         let button = UIButton()
         button.setTitle("Edit Your Profile", for: .normal)
@@ -60,7 +58,7 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
         button.backgroundColor = .secondarySystemBackground
         return button
     }()
-    
+    //Create nameLabel
     private let nameLabel: UILabel = {
         let label = UILabel()
         label.text = "Team Cook"
@@ -68,7 +66,7 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
         label.numberOfLines = 1
         return label
     }()
-    
+    //Create bioLabel
     private let bioLabel: UILabel = {
         let label = UILabel()
         label.text = "This is the first account"
@@ -151,7 +149,7 @@ final class ProfileInfoHeaderCollectionReusableView: UICollectionReusableView {
         delegate?.profileHeaderDidTapEditProfileButton(self)
     }
     
-    //MARK: === init functions ===
+//MARK: === init functions ===
         override init(frame: CGRect) {
             super.init(frame: frame)
             clipsToBounds = true

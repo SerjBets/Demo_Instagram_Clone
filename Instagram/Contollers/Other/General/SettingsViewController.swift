@@ -6,37 +6,17 @@
 import UIKit
 import SafariServices
 
-///Cell model
-struct SettingCellModel {
-    let title: String
-    let handler: (() -> Void)
-}
-
-///ViewContoller to show user settings
 final class SettingsViewController: UIViewController {
-    
-    enum SettingsUrlType: String {
-        case terms
-        case privasy
-        case help
-        
-//        var rawValue: String {
-//            switch self {
-//                case .terms   : return "https://www.instagram.com/about/legal/terms/before-january-19-2013/"
-//                case .privasy : return "https://help.instagram.com/519522125107875/?helpref=hc_fnav"
-//                case .help    : return "https://help.instagram.com/contact/505535973176353"
-//            }
-//        }
-    }
-    
     private var data = [[SettingCellModel]]()
 
+//MARK: === Create uI elements ===
     //Create TableView
     private let tableView: UITableView = {
         let tableView = UITableView(frame: .zero, style: .grouped)
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: "cell")
         return tableView
     }()
+    
     //Configure TableViewSettingsCells
     private func configureModels() {
         data.append([
@@ -66,7 +46,6 @@ final class SettingsViewController: UIViewController {
                 self?.didTapLogOut()
             })
         ])
-            
     }
     
 // MARK: === didTap functions ===
@@ -141,7 +120,6 @@ final class SettingsViewController: UIViewController {
         configureModels()
     }
 }
-
 
 // MARK: === TableViewDelegate and TableViewDataSourse extension ===
 extension SettingsViewController: UITableViewDelegate, UITableViewDataSource {

@@ -1,24 +1,12 @@
-//
 //  UserFollowTableViewCell.swift
 //  Instagram
-//
-//  Created by Сергей Бец on 06.05.2022.
-//
+//  Created by Serhii Bets on 13.04.2022.
+//  Copyright by Serhii Bets. All rights reserved.
 
 import UIKit
 
 protocol UserFollowTableViewCellDelegate: AnyObject {
     func didTapFollowUnFollowButton(with model: UserRelationship)
-}
-
-enum FollowState {
-    case following, not_following
-}
-
-struct UserRelationship {
-    let username: String
-    let name: String
-    let type: FollowState
 }
 
 class UserFollowTableViewCell: UITableViewCell {
@@ -28,6 +16,7 @@ class UserFollowTableViewCell: UITableViewCell {
     private var model: UserRelationship?
     
 //MARK: === Create UI elements ===
+    //Create profileImageView
     private let profileImageView: UIImageView = {
         let imageView = UIImageView()
         imageView.layer.masksToBounds = true
@@ -35,7 +24,7 @@ class UserFollowTableViewCell: UITableViewCell {
         imageView.contentMode = .scaleAspectFill
         return imageView
     }()
-    
+    //Create nameLabel
     private let nameLabel: UILabel = {
         let label = UILabel()
         label.numberOfLines = 1
@@ -43,7 +32,7 @@ class UserFollowTableViewCell: UITableViewCell {
         label.text = "Test"
         return label
     }()
-    
+    //Create userNameLabel
     private let userNameLabel: UILabel = {
         let label = UILabel()
         label.numberOfLines = 1
@@ -52,7 +41,7 @@ class UserFollowTableViewCell: UITableViewCell {
         label.textColor = .secondaryLabel
         return label
     }()
-    
+    //Create followButton
     private let followButton: UIButton = {
         let button = UIButton()
         button.backgroundColor = .link
@@ -66,7 +55,6 @@ class UserFollowTableViewCell: UITableViewCell {
         contentView.addSubview(userNameLabel)
         contentView.addSubview(followButton)
     }
-    
     
     override func layoutSubviews() {
         super.layoutSubviews()

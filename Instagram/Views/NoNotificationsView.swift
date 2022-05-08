@@ -1,15 +1,14 @@
-//
 //  NoNotificationsView.swift
 //  Instagram
-//
-//  Created by Сергей Бец on 06.05.2022.
-//
+//  Created by Serhii Bets on 13.04.2022.
+//  Copyright by Serhii Bets. All rights reserved.
 
 import UIKit
 
 class NoNotificationsView: UIView {
 
 //MARK: === Create UI elements ===
+    //Create noNotifications Label
     private let noNotificationsLabel: UILabel = {
         let label = UILabel()
         label.text = "No Notifications"
@@ -19,6 +18,7 @@ class NoNotificationsView: UIView {
         return label
     }()
     
+    //Create bell imageView
     private let imageView: UIImageView = {
        let imageView = UIImageView()
         imageView.tintColor = .secondaryLabel
