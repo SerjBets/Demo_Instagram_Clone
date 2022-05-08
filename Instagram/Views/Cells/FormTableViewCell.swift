@@ -11,17 +11,17 @@ protocol FormTableViewCellDelegate: AnyObject {
 
 class FormTableViewCell: UITableViewCell {
     static let identifier = "FormTableViewCell"
-    
-//MARK: === Create UI elements ===
     private var model: EditProfileFormModel?
-    
+
+//MARK: === Create UI elements ===
+    //Create formlabel
     private let formlabel: UILabel = {
         let label = UILabel()
         label.textColor = .label
         label.numberOfLines = 1
         return label
     }()
-    
+    //Create field
     private let field: UITextField = {
         let field = UITextField()
         field.returnKeyType = .done
